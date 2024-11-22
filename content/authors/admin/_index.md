@@ -26,8 +26,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:a.mesoudi@exeter.ac.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/amesoudi
+  - icon: brands/bluesky
+    url: https://bsky.app/amesoudi.bsky.social
   - icon: brands/github
     url: https://github.com/amesoudi
   - icon: academicons/google-scholar
@@ -70,19 +70,26 @@ work:
     date_start: 2015-08-01
     date_end: ''
     summary: |2-
-      xxx
+      ''
   - position: Reader in Anthropology
-    company_name: Durham University, UK
+    company_name: Department of Anthropology, Durham University, UK
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
+    date_start: 2012-09-01
     date_end: 2015-07-31
     summary: |
-      xxx
-
+      ''
+  - position: Lecturer in Psychology
+    company_name: Queen Mary University of London, UK
+    company_url: ''
+    company_logo: ''
+    date_start: 2008-09-01
+    date_end: 2012-08-31
+    summary: |
+      ''
 
 ---
 
 ## About Me
 
-Alex Mesoudi is Professor of Cultural Evolution at the University of Exeter, UK. He is interested in how human culture evolved, and how culture itself evolves in our species. He builds theoretical models, runs lab experiments, and analyses real world data.
+I am Professor of Cultural Evolution at the University of Exeter, UK. I am interested in how human culture evolved, and how culture itself evolves in our species. He builds theoretical models, runs lab experiments, and analyses real world data.
