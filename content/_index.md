@@ -18,8 +18,8 @@ sections:
       button:
         text: Download CV
         url: uploads/alex_mesoudi_cv.pdf
-    design:
-      css_class: dark
+    # design:
+      # css_class: dark
       # background:
       #  color: black
       #  image:
