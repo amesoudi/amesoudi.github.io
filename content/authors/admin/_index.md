@@ -90,6 +90,6 @@ work:
 
 ---
 
-# About me
+## About me
 
 I am Professor of Cultural Evolution at the University of Exeter, UK. I am interested in how human culture evolved, and how culture itself evolves in our species. I build theoretical models, run lab experiments, and conduct analyses of real world data.
