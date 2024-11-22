@@ -27,7 +27,7 @@ profiles:
     url: 'mailto:a.mesoudi@exeter.ac.uk'
     label: E-mail Me
   - icon: brands/bluesky
-    url: https://bsky.app/amesoudi.bsky.social
+    url: https://bsky.app/profile/amesoudi.bsky.social
   - icon: brands/github
     url: https://github.com/amesoudi
   - icon: academicons/google-scholar
