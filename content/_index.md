@@ -20,16 +20,16 @@ sections:
         url: uploads/alex_mesoudi_cv.pdf
     design:
       css_class: dark
-      background:
-        color: black
-        image:
+      # background:
+      #  color: black
+      #  image:
           # Add your image background to `assets/media/`.
-          filename: ''
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+      #    filename: ''
+      #    filters:
+      #      brightness: 1.0
+      #    size: cover
+       #   position: center
+       #   parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
