@@ -60,7 +60,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      - block: markdown
+  - block: markdown
     id: tutorials
     content:
       title: 'Simulation models of cultural evolution in R'
