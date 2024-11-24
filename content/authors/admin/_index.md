@@ -96,8 +96,8 @@ I am Professor of Cultural Evolution at the University of Exeter, UK. I am inter
 
 ### Contact:
 
-Centre for Ecology and Conservation
+Centre for Ecology and Conservation\n
 University of Exeter, Cornwall Campus
-Penryn, TR10 8QS
+Penryn, TR10 8QS<br>
 United Kingdom
 Email: a.mesoudi@exeter.ac.uk
