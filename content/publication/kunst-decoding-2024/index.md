@@ -38,7 +38,7 @@ abstract: Although acculturation psychology is extensively studied in the social
   cultural shifts occurring in many ethnically diverse societies, notably by identifying
   conditions that empower minority-group members, often marginalized, to significantly
   influence the majority group and society.
-url_pdf: Kunst_Mesoudi_PSPR_2024.pdf
+url_pdf: publication/kunst-decoding-2024/Kunst_Mesoudi_PSPR_2024.pdf
 links:
 - name: URL
   url: https://doi.org/10.1177/10888683241258406
