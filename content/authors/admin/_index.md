@@ -90,9 +90,18 @@ profiles:
 
 ---
 
-## About me
+Welcome! I am Professor of Cultural Evolution at the University of Exeter’s Penryn Campus in Cornwall, UK. I am also President of the 
+<a href="[url](https://culturalevolutionsociety.org/)">Cultural Evolution Society</a>.
 
-I am Professor of Cultural Evolution at the University of Exeter, UK. I am interested in how human culture evolved, and how culture itself evolves in our species. I build theoretical models, run lab experiments, and conduct analyses of real world data.
+I study **human cultural evolution**. I am interested in how human culture evolved, and how culture itself evolves over time.
+
+I use **experiments** to simulate cultural evolution in the lab. I get people to make and copy technological artifacts like arrowheads or handaxes, or solve problems resembling real-world challenges. The aim is to understand how psychological and social processes have shaped cultural change past and present.
+
+I construct **models** of cultural evolution. These explore how individual decisions (e.g. when and from whom people learn) translate into population-level patterns of cultural change. I have modeled cumulative technological change, copycat suicides, and the effects of migration on cultural diversity.
+
+I analyse **big datasets** to explain real world patterns of cultural evolution. Recent analyses have explored the cultural evolution of pop music, football tactics and nature documentary tweets.
+
+You can read more on the [Research](#research) page below, or view my [Publications](#papers).
 
 #### Contact:
 
