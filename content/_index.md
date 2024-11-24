@@ -93,7 +93,6 @@ sections:
         An online version which contains the compiled models with outputs can be found at https://bookdown.org/amesoudi/ABMtutorial_bookdown/
     design:
       columns: '1'
-      spacing: '5rem'
 #  - block: collection
 #    id: talks
 #    content:
