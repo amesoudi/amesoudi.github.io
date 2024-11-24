@@ -35,6 +35,9 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-7740-1625
 
+contact:
+  - Centre for Ecology and Conservation
+
 interests:
   - cultural evolution
   - social learning
