@@ -88,9 +88,7 @@ sections:
         * Model 18: Evolution of social learning
         * Model 19: Evolution of social learning strategies
         
-        The tutorial is freely available at https://github.com/amesoudi/cultural_evolution_ABM_tutorial
-        
-        An online version which contains the compiled models with outputs can be found at https://bookdown.org/amesoudi/ABMtutorial_bookdown/
+        The tutorial is freely available <a href="https://github.com/amesoudi/cultural_evolution_ABM_tutorial">in this github repository</a>. An online version which contains the compiled models with outputs can be found <a href="https://bookdown.org/amesoudi/ABMtutorial_bookdown/">on this bookdown site</a>.
     design:
       columns: '1'
 #  - block: collection
