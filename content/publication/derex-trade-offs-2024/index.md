@@ -34,6 +34,7 @@ abstract: 'Although the theoretical foundations of the modern field of cultural 
   the broad trade-offs that participants face when learning individually and socially
   in different contexts, including variable acquisition costs, redundancy of effort
   in groups, and cognitive and motivational fatigue.'
+url_pdf: publication/derex-trade-offs-2024/Derex_etal_PNAS_2024.pdf
 links:
 - name: URL
   url: https://www.pnas.org/doi/10.1073/pnas.2322886121
