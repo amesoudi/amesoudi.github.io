@@ -5,12 +5,12 @@ authors:
 - Maxime Derex
 - Pierce Edmiston
 - Gary Lupyan
-- Alex Mesoudi
+- admin
 date: '2024-11-01'
 publishDate: '2024-11-28T01:51:11.743427Z'
 publication_types:
 - article-journal
-publication: '*Proceedings of the National Academy of Sciences*'
+publication: '*Proceedings of the National Academy of Sciences 121(48)*, e2322886121'
 doi: 10.1073/pnas.2322886121
 abstract: 'Although the theoretical foundations of the modern field of cultural evolution
   have been in place for over 50 y, laboratory experiments specifically designed to
