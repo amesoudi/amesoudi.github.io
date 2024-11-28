@@ -91,7 +91,7 @@ profiles:
 ---
 
 Welcome! I am Professor of Cultural Evolution at the University of Exeter’s Penryn Campus in Cornwall, UK. I am also President of the 
-<a href="(https://culturalevolutionsociety.org/)">Cultural Evolution Society</a>.
+<a href="https://culturalevolutionsociety.org/">Cultural Evolution Society</a>.
 
 I study **human cultural evolution**. I am interested in how human culture evolved, and how culture itself evolves over time.
 
@@ -101,8 +101,7 @@ I construct **models** of cultural evolution. These explore how individual decis
 
 I analyse **big datasets** to explain real world patterns of cultural evolution. Recent analyses have explored the cultural evolution of pop music, football tactics and nature documentary tweets.
 
-You can read more on the [Research](#research) page below, or view my [Publications](#publications) here or on <a href="(https://scholar.google.co.uk/citations?user=0xYctXoAAAAJ&hl=en
-)">Google Scholar</a>.
+You can read more on the [Research](#research) page below, or view my [Publications](#publications) here or on <a href="https://scholar.google.co.uk/citations?user=0xYctXoAAAAJ&hl=en">Google Scholar</a>.
 
 #### Contact:
 
