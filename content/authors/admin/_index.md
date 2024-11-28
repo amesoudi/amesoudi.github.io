@@ -101,7 +101,8 @@ I construct **models** of cultural evolution. These explore how individual decis
 
 I analyse **big datasets** to explain real world patterns of cultural evolution. Recent analyses have explored the cultural evolution of pop music, football tactics and nature documentary tweets.
 
-You can read more on the [Research](#research) page below, or view my [Publications](#publications).
+You can read more on the [Research](#research) page below, or view my [Publications](#publications) here or on <a href="[url](https://scholar.google.co.uk/citations?user=0xYctXoAAAAJ&hl=en
+)">Google Scholar</a>.
 
 #### Contact:
 
