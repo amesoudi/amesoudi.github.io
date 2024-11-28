@@ -2,7 +2,7 @@
 title: Sex-biased sound symbolism in English-language first names
 authors:
 - Benjamin J. Pitcher
-- Alex Mesoudi
+- admin
 - Alan G. McElligott
 date: '2013-06-01'
 publishDate: '2024-11-22T08:25:18.321110Z'
