@@ -25,7 +25,7 @@ date: '2023-03-01'
 publishDate: '2024-11-22T08:25:18.612911Z'
 publication_types:
 - article-journal
-publication: '*Journal of The Royal Society Interface*'
+publication: '*Journal of The Royal Society Interface 20(200)*, 20220736'
 doi: 10.1098/rsif.2022.0736
 abstract: We develop a conceptual framework for studying collective adaptation in
   complex socio-cognitive systems, driven by dynamic interactions of social integration
