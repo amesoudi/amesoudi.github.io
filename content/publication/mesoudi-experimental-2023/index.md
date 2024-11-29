@@ -1,7 +1,7 @@
 ---
 title: Experimental studies of cultural evolution
 authors:
-- Alex Mesoudi
+- admin
 date: '2023-05-01'
 publishDate: '2024-11-22T08:25:18.628321Z'
 publication_types:
