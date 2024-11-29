@@ -15,7 +15,7 @@ authors:
 - Michelle Kline
 - Eun Lee
 - Giovanni Francesco Massari
-- Alex Mesoudi
+- admin
 - Henrik Olsson
 - Niccolo Pescetelli
 - Sabina J. Sloman
