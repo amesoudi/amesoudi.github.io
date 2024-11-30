@@ -30,6 +30,7 @@ abstract: This chapter reviews how experiments have played a growing role in the
   the need for closer links between experiments, theory, and real-world data; and
   the necessity for experiments to be both replicable and reproducible via open science
   practices, to ensure that new generations of scientists can build on reliable knowledge.
+url_pdf: publication/mesoudi-experimental-2023/Mesoudi_OxfordHandbook_2023.pdf
 links:
 - name: URL
   url: https://doi.org/10.1093/oxfordhb/9780198869252.013.6
