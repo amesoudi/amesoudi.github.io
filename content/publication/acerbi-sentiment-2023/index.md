@@ -7,12 +7,12 @@ authors:
 - Jakub Kryczka
 - Bethany Trapp
 - John Joseph Valletta
-- Alex Mesoudi
+- admin
 date: '2023-01-01'
 publishDate: '2024-11-22T08:25:18.620729Z'
 publication_types:
 - article-journal
-publication: '*Conservation Biology*'
+publication: '*Conservation Biology 37(4)*, e14060'
 doi: 10.1111/cobi.14060
 abstract: The role of nature documentaries in shaping public attitudes and behavior
   toward conservation and wildlife issues is unclear. We analyzed the emotional content
@@ -41,6 +41,7 @@ tags:
 - negative bias
 - redes sociales
 - sesgo negativo
+url_pdf: publication/acerbi-sentiment-2023/Acerbi_etal_ConservationBiology_2023.pdf
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cobi.14060
