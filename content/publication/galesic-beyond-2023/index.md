@@ -47,7 +47,7 @@ tags:
 - collective adaptation
 - computational models
 - social networks
-url_pdf: publication/galesic-beyond-2023/Galesic_etal_RSinterface.pdf
+url_pdf: publication/galesic-beyond-2023/Galesic_etal_RSinterface_2023.pdf
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0736
