@@ -46,7 +46,7 @@ tags:
 - Payment
 - Scientists
 - Sports
-url_pdf: publication/brand-trusting-2021/Brand_etal_PLOSONE_2021.pdf
+url_pdf: publication/brand-trusting-2021/Brand_Mesoudi_Morgan_PLOSONE_2021.pdf
 links:
 - name: URL
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255346
