@@ -1,7 +1,7 @@
 ---
 title: Simulation models of cultural evolution in R [online tutorial]
 authors:
-- Alex Mesoudi
+- admin
 date: '2023-01-01'
 publishDate: '2024-11-22T08:25:18.599894Z'
 publication_types:
