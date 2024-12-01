@@ -6,7 +6,7 @@ date: '2023-05-01'
 publishDate: '2024-11-22T08:25:18.628321Z'
 publication_types:
 - chapter
-publication: 'in Jamshid J. Tehrani, Jeremy Kendal, and Rachel Kendal (eds), *The Oxford Handbook of Cultural Evolution*. Oxford Academic.'
+publication: 'In Jamshid J. Tehrani, Jeremy Kendal, and Rachel Kendal (eds), *The Oxford Handbook of Cultural Evolution*. Oxford Academic'
 doi: 10.1093/oxfordhb/9780198869252.013.6
 abstract: This chapter reviews how experiments have played a growing role in the study
   of cultural evolution recently. Experiments occupy a middle ground between formal
