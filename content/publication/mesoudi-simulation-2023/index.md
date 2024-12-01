@@ -1,5 +1,5 @@
 ---
-title: Simulation models of cultural evolution in R
+title: Simulation models of cultural evolution in R [online tutorial]
 authors:
 - Alex Mesoudi
 date: '2023-01-01'
