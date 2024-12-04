@@ -49,6 +49,15 @@ sections:
 #    design:
 #      view: article-grid
 #      columns: 2
+  - block: markdown
+    id: research
+    content:
+      title: 'Research'
+      subtitle: ''
+      text: |-
+        description of research
+    design:
+      columns: '1'
   - block: collection
     id: publications
     content:
