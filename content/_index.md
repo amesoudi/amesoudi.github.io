@@ -57,19 +57,19 @@ sections:
       text: |-
         <h2>1. Cultural Evolution</h2>
 
-<p><img src="/img/book_cover.png" alt="Cultural Evolution book cover" style="width:200px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:right;">The human species has an extraordinary reliance on culture, i.e. the vast body of beliefs, knowledge and skills that we acquire from other individuals via social learning. While other species adapt to their environments primarily via genetic evolution, we adapt via cultural evolution. I am interested in how this process of cultural evolution works, its similarities and differences to genetic evolution, and how traditional social science findings and topics can be studied within an evolutionary framework.</p>
+        <p><img src="/img/book_cover.png" alt="Cultural Evolution book cover" style="width:200px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:right;">The human species has an extraordinary reliance on culture, i.e. the vast body of beliefs, knowledge and skills that we acquire from other individuals via social learning. While other species adapt to their environments primarily via genetic evolution, we adapt via cultural evolution. I am interested in how this process of cultural evolution works, its similarities and differences to genetic evolution, and how traditional social science findings and topics can be studied within an evolutionary framework.</p>
 
-<h5>Representative publications:</h5>
+        <h5>Representative publications:</h5>
 
-[Mesoudi (2017) Pursuing Darwin's curious parallel: Prospects for a science of cultural evolution. _Proceedings of the National Academy of Sciences_ 114, 7853–7860.]({{< ref "/publication/mesoudi_pursuing_2017/index.md" >}})
+        [Mesoudi (2017) Pursuing Darwin's curious parallel: Prospects for a science of cultural evolution. _Proceedings of the National Academy of Sciences_ 114, 7853–7860.]({{< ref "/publication/mesoudi_pursuing_2017/index.md" >}})
 
-[Mesoudi (2011) _Cultural evolution: How Darwinian theory can explain human culture and synthesize the social sciences._ University of Chicago Press.]({{< ref "/publication/mesoudi_cultural_2011/index.md" >}})
+        [Mesoudi (2011) _Cultural evolution: How Darwinian theory can explain human culture and synthesize the social sciences._ University of Chicago Press.]({{< ref "/publication/mesoudi_cultural_2011/index.md" >}})
 
-[Mesoudi, Whiten and Laland (2006) Towards a unified science of cultural evolution. _Behavioral and Brain Sciences_ 29, 329–383.]({{< ref "/publication/mesoudi_towards_2006/index.md" >}})
+        [Mesoudi, Whiten and Laland (2006) Towards a unified science of cultural evolution. _Behavioral and Brain Sciences_ 29, 329–383.]({{< ref "/publication/mesoudi_towards_2006/index.md" >}})
 
-[Mesoudi, Whiten and Laland (2004) Is human cultural evolution Darwinian? Evidence reviewed from the perspective of The Origin of Species. _Evolution_ 58, 1–11.]({{< ref "/publication/mesoudi_is_2004/index.md" >}})
+        [Mesoudi, Whiten and Laland (2004) Is human cultural evolution Darwinian? Evidence reviewed from the perspective of The Origin of Species. _Evolution_ 58, 1–11.]({{< ref "/publication/mesoudi_is_2004/index.md" >}})
 
-<br>
+        <br>
 
     design:
       columns: '1'
