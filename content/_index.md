@@ -86,7 +86,7 @@ sections:
         <h4>5. Big Cultural Data</h4>
         <p><img src="/uploads/formations.png" alt="Football formations" style="width:350px;margin-left:20px;margin-right:20px;margin-left:20px;margin-bottom:10px;float:right;">The digital age has yielded big cultural datasets that can be used to quantitatively analyse patterns of real-life cultural evolution. Recent projects have analysed and explained large-scale, long-term change in pop music lyrics, football tactics and tweets related to the Netflix documentary Our Planet.</p>
         <h4>Representative publications:</h4>
-        <a href="https://www.alexmesoudi.com/publication/acerbi-sentiment-2023/" style="font-size: 15px">Acerbi, Burns, Cabuk, Kryczka, Trapp, Valletta and Mesoudi (2023) Sentiment analysis of the Twitter response to Netflix's Our Planet documentary. _Conservation Biology_ 37(4), e14060.</a><br><br>
+        <a href="https://www.alexmesoudi.com/publication/acerbi-sentiment-2023/" style="font-size: 15px">Acerbi, Burns, Cabuk, Kryczka, Trapp, Valletta and Mesoudi (2023) Sentiment analysis of the Twitter response to Netflix's Our Planet documentary. Conservation Biology 37(4), e14060.</a><br><br>
         <a href="https://www.alexmesoudi.com/publication/mesoudi-cultural-2020/" style="font-size: 15px">Mesoudi (2020) Cultural evolution of football tactics: strategic social learning in managers' choice of formation. Evolutionary Human Sciences 2, e25.</a><br><br>
         <a href="https://www.alexmesoudi.com/publication/brand-cultural-2019/" style="font-size: 15px">Brand, Acerbi and Mesoudi (2019) Cultural evolution of emotional expression in 50 years of song lyrics. Evolutionary Human Sciences 1, e11.</a><br>
     design:
