@@ -83,7 +83,7 @@ sections:
         <a href="https://www.alexmesoudi.com/publication/mesoudi-migration-2018/">Mesoudi (2018) Migration, acculturation, and the maintenance of between-group cultural variation. PLOS ONE 13, e0205573.</a><br><br>
         <a href="https://www.alexmesoudi.com/publication/mesoudi-how-2016/">Mesoudi, Magid and Hussain (2016) How do people become W.E.I.R.D.? Migration reveals the cultural transmission mechanisms underlying variation in psychological processes. PLOS ONE 11, e0147162.</a><br><br>
         <a href="https://www.alexmesoudi.com/publication/mesoudi-higher-2015/">Mesoudi, Chang, Murray and Lu (2015) Higher frequency of social learning in China than in the West shows cultural variation in the dynamics of cultural evolution. Proceedings of the Royal Society B 282, 20142209.</a><br><br>
-        <h4>6. Big Cultural Data</h4>
+        <h4>5. Big Cultural Data</h4>
         <p><img src="/img/formations.png" alt="Football formations" style="width:350px;margin-left:20px;margin-right:20px;margin-left:20px;margin-bottom:10px;float:right;">The digital age has yielded big cultural datasets that can be used to quantitatively analyse patterns of real-life cultural evolution. Recent projects have analysed and explained large-scale, long-term change in pop music lyrics, football tactics and tweets related to the Netflix documentary Our Planet.</p>
         <h4>Representative publications:</h4>
         <a href="https://www.alexmesoudi.com/publication/acerbi-sentiment-2023/">Acerbi, Burns, Cabuk, Kryczka, Trapp, Valletta and Mesoudi (2023) Sentiment analysis of the Twitter response to Netflix's Our Planet documentary. _Conservation Biology_ 37(4), e14060.</a><br><br>
