@@ -90,7 +90,7 @@ sections:
         <a href="https://www.alexmesoudi.com/publication/mesoudi-cultural-2020/">Mesoudi (2020) Cultural evolution of football tactics: strategic social learning in managers' choice of formation. Evolutionary Human Sciences 2, e25.</a><br><br>
         <a href="https://www.alexmesoudi.com/publication/brand-cultural-2019/">Brand, Acerbi and Mesoudi (2019) Cultural evolution of emotional expression in 50 years of song lyrics. Evolutionary Human Sciences 1, e11.</a><br>
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: publications
     content:
