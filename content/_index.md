@@ -69,6 +69,13 @@ sections:
         <a href="https://www.alexmesoudi.com/publication/derex-causal-2019/">Derex, Bonnefon, Boyd and Mesoudi (2019) Causal understanding is not necessary for the improvement of culturally evolving technology. Nature Human Behaviour 3, 446–452.</a><br><br>
         <a href="https://www.alexmesoudi.com/publication/mesoudi-experimental-2011/">Mesoudi (2011) An experimental comparison of human social learning strategies: payoff-biased social learning is adaptive but underused. Evolution and Human Behavior 32, 334–342.</a><br><br>
         <a href="https://www.alexmesoudi.com/publication/mesoudi-bias-2006/">Mesoudi, Whiten and Dunbar (2006) A bias for social information in human cultural transmission. British Journal of Psychology 97, 405–423.</a><br><br>
+        <h4>3. Models of Cultural Evolution</h4>
+        <p><img src="/uploads/kempe_model.png" alt="Kempe et al. model" style="width:350px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:right;">I have used theoretical models, primarily agent-based simulations, to explore how different learning dynamics - who copies what, from whom and when - might generate large-scale patterns of cultural evolution. Previous models have looked at beliefs in partible paternity (where children have more than one biological 'father'), copycat suicide, and how the costs of acquiring ever-accumulating knowledge slows down innovation in cumulative cultural evolution.</p>
+        <h4>Representative publications:</h4>
+        <a href="https://www.alexmesoudi.com/publication/kempe-cultural-2014/">Kempe, Lycett and Mesoudi (2014) From cultural traditions to cumulative culture: Parameterizing the differences between human and nonhuman culture. Journal of Theoretical Biology 359, 29–36.</a><br><br>
+        <a href="https://www.alexmesoudi.com/publication/mesoudi-variable-2011/">Mesoudi (2011) Variable cultural acquisition costs constrain cumulative cultural evolution. PLOS ONE 6, e18239.</a><br><br>
+        <a href="https://www.alexmesoudi.com/publication/mesoudi-cultural-2009/">Mesoudi (2009) The cultural dynamics of copycat suicide. PLOS ONE 4, e7252.</a><br><br>
+        <a href="https://www.alexmesoudi.com/publication/mesoudi-culturally-2007/">Mesoudi and Laland (2007) Culturally transmitted paternity beliefs and the evolution of human mating behaviour. Proceedings of the Royal Society B 274, 1273–1278.</a><br><br>
     design:
       columns: '1'
   - block: collection
