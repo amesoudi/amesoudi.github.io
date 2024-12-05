@@ -67,7 +67,6 @@ sections:
         <h4>Representative publications:</h4>
         <a href="https://www.alexmesoudi.com/publication/brand-emergence-2020/">Brand, Heap, Morgan & Mesoudi (2020). The emergence and adaptive use of prestige in an online social learning task. Scientific Reports 10, 12095.</a><br><br>
         <a href="https://www.alexmesoudi.com/publication/derex-causal-2019/">Derex, Bonnefon, Boyd and Mesoudi (2019) Causal understanding is not necessary for the improvement of culturally evolving technology. Nature Human Behaviour 3, 446–452.</a><br><br>
-        <a href="https://www.alexmesoudi.com/publication/kempe-experimental-2012/">Kempe, Lycett and Mesoudi (2012) An experimental test of the accumulated copying error model of cultural mutation for Acheulean handaxe size. PLOS ONE 7, e48333.</a><br><br>
         <a href="https://www.alexmesoudi.com/publication/mesoudi-experimental-2011/">Mesoudi (2011) An experimental comparison of human social learning strategies: payoff-biased social learning is adaptive but underused. Evolution and Human Behavior 32, 334–342.</a><br><br>
         <a href="https://www.alexmesoudi.com/publication/mesoudi-bias-2006/">Mesoudi, Whiten and Dunbar (2006) A bias for social information in human cultural transmission. British Journal of Psychology 97, 405–423.</a><br><br>
     design:
