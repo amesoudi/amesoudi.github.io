@@ -58,7 +58,7 @@ sections:
         <h3>1. Cultural Evolution</h3>
         <p><img src="/uploads/book_cover.png" alt="Cultural Evolution book cover" style="width:200px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:right;">The human species has an extraordinary reliance on culture, i.e. the vast body of beliefs, knowledge and skills that we acquire from other individuals via social learning. While other species adapt to their environments primarily via genetic evolution, we adapt via cultural evolution. I am interested in how this process of cultural evolution works, its similarities and differences to genetic evolution, and how traditional social science findings and topics can be studied within an evolutionary framework.</p>
         <h4>Representative publications:</h4>
-        [test text]({{< ref "/about" >}} "Quote test text")
+        [test text]({{< ref "/publication/mesoudi-pursuing-2017/" >}} "Quote test text")
         [Mesoudi (2017) Pursuing Darwin's curious parallel: Prospects for a science of cultural evolution. _Proceedings of the National Academy of Sciences_ 114, 7853–7860.](http://alexmesoudi.com/publication/mesoudi-pursuing-2017/)
     design:
       columns: '1'
