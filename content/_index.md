@@ -57,7 +57,7 @@ sections:
       text: |-
         <h4>1. Cultural Evolution</h4>
         <p style="font-size:17px"><img src="/uploads/book_cover.png" alt="Cultural Evolution book cover" style="width:200px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:right;">The human species has an extraordinary reliance on culture, i.e. the vast body of beliefs, knowledge and skills that we acquire from other individuals via social learning. While other species adapt to their environments primarily via genetic evolution, we adapt via cultural evolution. I am interested in how this process of cultural evolution works, its similarities and differences to genetic evolution, and how traditional social science findings and topics can be studied within an evolutionary framework.</p>
-        <h4>Representative publications:</h4>
+        <h5>Representative publications:</h5>
         <p><a href="https://www.alexmesoudi.com/publication/mesoudi-pursuing-2017/" style="font-size: 15px">Mesoudi (2017) Pursuing Darwin's curious parallel: Prospects for a science of cultural evolution. Proceedings of the National Academy of Sciences 114, 7853–7860.</a></p>
         <p><a href="https://www.alexmesoudi.com/publication/mesoudi-cultural-2011/" style="font-size: 15px">Mesoudi (2011) Cultural evolution: How Darwinian theory can explain human culture and synthesize the social sciences. University of Chicago Press.</a></p>
         <p><a href="https://www.alexmesoudi.com/publication/mesoudi-towards-2006/" style="font-size: 15px">Mesoudi, Whiten and Laland (2006) Towards a unified science of cultural evolution. Behavioral and Brain Sciences 29, 329–383.</a></p>
