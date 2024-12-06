@@ -3,7 +3,7 @@ title: Adult learners in a novel environment use prestige-biased social learning
 authors:
 - Curtis Atkisson
 - Michael J. O'Brien
-- Alex Mesoudi
+- admin
 date: '2012-07-01'
 publishDate: '2024-11-22T08:25:18.335102Z'
 publication_types:
@@ -29,6 +29,7 @@ abstract: Social learning (learning from others) is evolutionarily adaptive unde
   information was not used more often following environmental shifts, contrary to
   predictions. These results support previous discussions of the key role that prestige-biased
   transmission plays in social learning.
+url_pdf: publication/atkisson-adult-2012/Atkisson_Mesoudi_OBrien_EvolPsy_2012.pdf
 links:
 - name: URL
   url: https://doi.org/10.1177/147470491201000309
