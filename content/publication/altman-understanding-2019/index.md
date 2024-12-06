@@ -3,7 +3,7 @@ title: Understanding agriculture within the frameworks of cumulative cultural ev
   gene-culture co-evolution, and cultural niche construction
 authors:
 - Arie Altman
-- Alex Mesoudi
+- admin
 date: '2019-08-01'
 publishDate: '2024-11-22T08:25:18.191665Z'
 publication_types:
@@ -31,6 +31,7 @@ abstract: Since its emergence around 12,000 years ago, agriculture has transfor
   into the co-evolution of human culture and plant genes and the unprecedented contribution
   of agricultural activities to the construction of unique agriculture-driven anthropogenic
   biomes.
+url_pdf: publication/altman-understanding-2019/Altman_Mesoudi_HumEcol_2019.pdf
 links:
 - name: URL
   url: https://doi.org/10.1007/s10745-019-00090-y
