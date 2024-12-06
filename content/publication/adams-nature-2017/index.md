@@ -4,7 +4,7 @@ title: 'The nature and development of mathematics: Cross disciplinary perspectiv
 authors:
 - John Adams
 - Patrick Barmby
-- Alex Mesoudi
+- admin
 date: '2017-01-01'
 publishDate: '2024-11-22T08:25:18.111525Z'
 publication_types:
