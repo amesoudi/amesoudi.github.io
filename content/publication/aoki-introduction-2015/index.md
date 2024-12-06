@@ -2,7 +2,7 @@
 title: Introduction to “Learning Strategies and Cultural Evolution During the Palaeolithic”
 authors:
 - Kenichi Aoki
-- Alex Mesoudi
+- admin
 date: '2015-01-01'
 publishDate: '2024-11-22T08:25:18.146884Z'
 publication_types:
@@ -20,6 +20,7 @@ tags:
 - Cultural diversity
 - Demographic factors
 - Learning strategy
+url_pdf: publication/aoki-introduction-2015/Aoki_Mesoudi_Springerbook_2015.pdf
 links:
 - name: URL
   url: https://doi.org/10.1007/978-4-431-55363-2_1
