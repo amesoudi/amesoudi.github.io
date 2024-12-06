@@ -3,7 +3,7 @@ title: If we are all cultural Darwinians what’s the fuss about? Clarifying rec
   disagreements in the field of cultural evolution
 authors:
 - Alberto Acerbi
-- Alex Mesoudi
+- admin
 date: '2015-07-01'
 publishDate: '2024-11-22T08:25:18.342352Z'
 publication_types:
@@ -26,6 +26,7 @@ abstract: Cultural evolution studies are characterized by the notion that cultur
   experimental research in cultural evolution. Finally, we discuss how the relative
   importance of preservative and reconstructive processes may depend on the granularity
   of analysis and the domain being studied.
+url_pdf: publication/acerbi-if-2015/Acerbi_Mesoudi_BiolPhil_2015.pdf
 links:
 - name: URL
   url: https://doi.org/10.1007/s10539-015-9490-2
