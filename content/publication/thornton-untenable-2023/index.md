@@ -3,7 +3,7 @@ title: Untenable propositions and alternative avenues. Comment to “Blind alley
   fruitful pathways in the comparative study of cultural cognition” by Andrew Whiten.
 authors:
 - Alex Thornton
-- Alex Mesoudi
+- admin
 date: '2023-03-01'
 publishDate: '2024-11-22T08:25:18.586336Z'
 publication_types:

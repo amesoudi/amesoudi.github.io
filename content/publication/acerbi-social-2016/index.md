@@ -4,7 +4,7 @@ title: 'Social learning solves the problem of narrow-peaked search landscapes: e
 authors:
 - Alberto Acerbi
 - Claudio Tennie
-- Alex Mesoudi
+- admin
 date: '2016-09-01'
 publishDate: '2024-11-22T08:25:17.858889Z'
 publication_types:
@@ -28,6 +28,7 @@ abstract: The extensive use of social learning is considered a major reason for 
   although as in previous experiments social information was generally underutilized.
   Our results highlight the importance of tasks’ design space when studying the adaptiveness
   of high-fidelity social learning.
+url_pdf: publication/acerbi-social-2016/Acerbi_Tennie_Mesoudi_RSOpenSci_2016.pdf
 links:
 - name: URL
   url: http://rsos.royalsocietypublishing.org/content/3/9/160215

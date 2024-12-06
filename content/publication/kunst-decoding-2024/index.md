@@ -3,12 +3,12 @@ title: 'Decoding the dynamics of cultural change: A cultural evolution approach 
   the psychology of acculturation'
 authors:
 - Jonas R. Kunst
-- Alex Mesoudi
+- admin
 date: '2024-07-01'
 publishDate: '2024-11-22T08:25:18.665308Z'
 publication_types:
 - article-journal
-publication: '*Personality and Social Psychology Review*'
+publication: '*Personality and Social Psychology Review*, 10888683241258406'
 doi: 10.1177/10888683241258406
 abstract: Although acculturation psychology is extensively studied in the social sciences,
   research progress has slowed due to overused methodologies and theories and emerging

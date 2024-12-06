@@ -1,12 +1,12 @@
 ---
 title: Experimental studies of cultural evolution
 authors:
-- Alex Mesoudi
+- admin
 date: '2023-05-01'
 publishDate: '2024-11-22T08:25:18.628321Z'
 publication_types:
 - chapter
-publication: '*The Oxford Handbook of Cultural Evolution*'
+publication: 'In Jamshid J. Tehrani, Jeremy Kendal, and Rachel Kendal (eds), *The Oxford Handbook of Cultural Evolution*. Oxford Academic'
 doi: 10.1093/oxfordhb/9780198869252.013.6
 abstract: This chapter reviews how experiments have played a growing role in the study
   of cultural evolution recently. Experiments occupy a middle ground between formal
@@ -30,6 +30,7 @@ abstract: This chapter reviews how experiments have played a growing role in the
   the need for closer links between experiments, theory, and real-world data; and
   the necessity for experiments to be both replicable and reproducible via open science
   practices, to ensure that new generations of scientists can build on reliable knowledge.
+url_pdf: publication/mesoudi-experimental-2023/Mesoudi_OxfordHandbook_2023.pdf
 links:
 - name: URL
   url: https://doi.org/10.1093/oxfordhb/9780198869252.013.6

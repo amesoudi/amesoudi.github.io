@@ -2,13 +2,13 @@
 title: A formal test using agent-based models of the circumscription theory for the
   evolution of social complexity
 authors:
-- A. J. Williams
-- A. Mesoudi
+- Alice J. Williams
+- admin
 date: '2024-12-01'
 publishDate: '2024-11-22T08:25:18.658169Z'
 publication_types:
 - article-journal
-publication: '*Journal of Archaeological Science*'
+publication: '*Journal of Archaeological Science 172*, 106090'
 doi: 10.1016/j.jas.2024.106090
 abstract: The emergence of social complexity in human societies is a long-debated
   topic in archaeology, with competing hypotheses proposed and argued for using archaeological
@@ -27,6 +27,7 @@ tags:
 - Agent-based modelling
 - Circumscription theory
 - Social complexity
+url_pdf: publication/williams-formal-2024/Williams_Mesoudi_JAS_2024.pdf
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0305440324001584

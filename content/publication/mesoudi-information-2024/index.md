@@ -1,8 +1,8 @@
 ---
 title: 'From information free-riding to information sharing: how have humans solved
-  the cooperative dilemma at the heart of cumulative cultural evolution?'
+  the cooperative dilemma at the heart of cumulative cultural evolution? [preprint]'
 authors:
-- Alex Mesoudi
+- admin
 - Angel V. Jimenez
 - Keith Jensen
 - Lei Chang
@@ -36,6 +36,7 @@ tags:
 - innovation
 - cooperation
 - cultural evolution
+url_pdf: publication/mesoudi-information-2024/Mesoudi_etal_preprint_2024.pdf
 links:
 - name: URL
   url: https://osf.io/a9zty

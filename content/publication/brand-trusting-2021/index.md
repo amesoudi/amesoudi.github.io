@@ -2,13 +2,13 @@
 title: 'Trusting the experts: The domain-specificity of prestige-biased social learning'
 authors:
 - Charlotte O. Brand
-- Alex Mesoudi
+- admin
 - Thomas J. H. Morgan
 date: '2021-08-01'
 publishDate: '2024-11-22T08:25:18.578239Z'
 publication_types:
 - article-journal
-publication: '*PLOS ONE*'
+publication: '*PLOS ONE 16(8)*, e0255346'
 doi: 10.1371/journal.pone.0255346
 abstract: Prestige-biased social learning (henceforth “prestige-bias”) occurs when
   individuals predominantly choose to learn from a prestigious member of their group,
@@ -46,6 +46,7 @@ tags:
 - Payment
 - Scientists
 - Sports
+url_pdf: publication/brand-trusting-2021/Brand_Mesoudi_Morgan_PLOSONE_2021.pdf
 links:
 - name: URL
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255346
