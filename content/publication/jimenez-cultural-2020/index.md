@@ -3,12 +3,12 @@ title: 'The cultural transmission of prestige and dominance social rank cues: An
   simulation'
 authors:
 - Ángel V. Jiménez
-- Alex Mesoudi
+- admin
 date: '2020-09-01'
 publishDate: '2024-11-22T08:25:18.543045Z'
 publication_types:
 - article-journal
-publication: '*Evolutionary Psychological Science*'
+publication: '*Evolutionary Psychological Science 7*, 189-199'
 doi: 10.1007/s40806-020-00261-x
 abstract: Informal social hierarchies within small human groups are argued to be based
   on prestige, dominance, or a combination of the two (Henrich & Gil-White, 2001).
@@ -34,6 +34,7 @@ abstract: Informal social hierarchies within small human groups are argued to be
   support for our prediction of the better transmission of dominance cues than prestige
   cues. We discuss whether the results might be explained by a specific social-rank
   content transmission bias or by a more general emotional content transmission bias.
+url_pdf: publication/jimenez-cultural-2020/Jimenez_Mesoudi_EvolPsychSci_2020.pdf
 links:
 - name: URL
   url: https://doi.org/10.1007/s40806-020-00261-x
