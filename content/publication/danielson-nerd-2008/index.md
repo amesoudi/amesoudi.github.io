@@ -2,13 +2,13 @@
 title: 'NERD and norms: Framework and experiments'
 authors:
 - Peter Danielson
-- Alex Mesoudi
+- admin
 - Roger Stanev
 date: '2008-12-01'
 publishDate: '2024-11-22T08:25:18.357942Z'
 publication_types:
 - article-journal
-publication: '*Philosophy of Science*'
+publication: '*Philosophy of Science 75*, 830--842'
 doi: 10.1086/594527
 abstract: 'We advocate and share the same theoretical framework for empirical research
   in ethics as exemplified in Christina Bicchieri’s The Grammar of Society. Our research
@@ -23,6 +23,7 @@ abstract: 'We advocate and share the same theoretical framework for empirical re
   rational reconstructions presents challenges to her theory of social norms. Our
   methods are complementary to Bicchieri’s, and together we can work toward developing
   more comprehensive empirically informed ethics.'
+url_pdf: publication/danielson-nerd-2008/Danielson_Mesoudi_Stanev_PhilSci_2008.pdf
 links:
 - name: URL
   url: https://www.journals.uchicago.edu/doi/abs/10.1086/594527

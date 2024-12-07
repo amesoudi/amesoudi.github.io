@@ -2,12 +2,12 @@
 title: 'Prestige-biased social learning: current evidence and outstanding questions'
 authors:
 - Ángel V. Jiménez
-- Alex Mesoudi
+- admin
 date: '2019-02-01'
 publishDate: '2024-11-22T08:25:18.096465Z'
 publication_types:
 - article-journal
-publication: '*Palgrave Communications*'
+publication: '*Palgrave Communications 5*, 20'
 doi: 10.1057/s41599-019-0228-7
 abstract: Cultural evolution theory posits that a major factor in human ecological
   success is our high-fidelity and selective social learning, which permits the accumulation
@@ -27,6 +27,7 @@ abstract: Cultural evolution theory posits that a major factor in human ecologic
   we examine the evidence for and against the use of prestige bias in human adults
   and children. Finally, we point out limitations in the current literature and present
   new avenues for research on prestige bias.
+url_pdf: publication/jimenez-prestige-biased-2019/Jimenez_Mesoudi_PalgraveComms_2019.pdf
 links:
 - name: URL
   url: https://doi.org/10.1057/s41599-019-0228-7

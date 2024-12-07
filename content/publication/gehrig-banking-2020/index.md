@@ -3,13 +3,13 @@ title: 'Banking on cooperation: An evolutionary analysis of microfinance loan re
   behaviour'
 authors:
 - Stefan Gehrig
-- Alex Mesoudi
+- admin
 - Shakti Lamba
 date: '2020-01-01'
 publishDate: '2024-11-22T08:25:18.570306Z'
 publication_types:
 - article-journal
-publication: '*Evolutionary Human Sciences*'
+publication: '*Evolutionary Human Sciences 3*, e2'
 doi: 10.31219/osf.io/tmpqj
 abstract: Microfinance is an economic development intervention that provides loans
   to low-income borrowers to stimulate economic growth and reduce financial hardship.
@@ -45,6 +45,7 @@ tags:
 - Reciprocity
 - Social capital
 - Social dilemma
+url_pdf: publication/gehrig-banking-2020/Gehrig_Mesoudi_Lamba_EHS_2021.pdf
 links:
 - name: URL
   url: https://osf.io/tmpqj/

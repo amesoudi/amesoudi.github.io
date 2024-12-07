@@ -3,13 +3,13 @@ title: No evidence that omission and confirmation biases affect the perception a
   recall of vaccine-related information
 authors:
 - Ángel V. Jiménez
-- Alex Mesoudi
+- admin
 - Jamshid J. Tehrani
 date: '2020-03-01'
 publishDate: '2024-11-22T08:25:18.176046Z'
 publication_types:
 - article-journal
-publication: '*PLOS ONE*'
+publication: '*PLOS ONE 15*, e0228898'
 doi: 10.1371/journal.pone.0228898
 abstract: Despite the spectacular success of vaccines in preventing infectious diseases,
   fears about their safety and other anti-vaccination claims are widespread. To better
@@ -46,6 +46,7 @@ tags:
 - Smallpox
 - Vaccination and immunization
 - Vaccines
+url_pdf: publication/jimenez-no-2020/Jimenez_etal_PLOSONE_2020.pdf
 links:
 - name: URL
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228898
