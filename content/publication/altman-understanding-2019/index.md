@@ -8,7 +8,7 @@ date: '2019-08-01'
 publishDate: '2024-11-22T08:25:18.191665Z'
 publication_types:
 - article-journal
-publication: '*Human Ecology*'
+publication: '*Human Ecology 47, 483-497*'
 doi: 10.1007/s10745-019-00090-y
 abstract: Since its emergence around 12,000 years ago, agriculture has transformed
   our species, other species, and the planet on which we all live. Here we argue that
