@@ -2,12 +2,12 @@
 title: Cumulative cultural evolution within evolving population structures
 authors:
 - Maxime Derex
-- Alex Mesoudi
+- admin
 date: '2020-08-01'
 publishDate: '2024-11-22T08:25:18.605691Z'
 publication_types:
 - article-journal
-publication: '*Trends in Cognitive Sciences*'
+publication: '*Trends in Cognitive Sciences 24*, 654-667'
 doi: 10.1016/j.tics.2020.04.005
 abstract: Our species has the peculiar ability to accumulate cultural innovations
   over multiple generations, a phenomenon termed ‘cumulative cultural evolution’ (CCE).
@@ -28,6 +28,7 @@ tags:
 - group problem-solving
 - population size
 - population structure
+url_pdf: publication/derex-cumulative-2020/Derex_Mesoudi_TICS_2020.pdf
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S1364661320301078
