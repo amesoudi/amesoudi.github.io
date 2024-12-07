@@ -8,7 +8,7 @@ date: '2012-07-01'
 publishDate: '2024-11-22T08:25:18.335102Z'
 publication_types:
 - article-journal
-publication: '*Evolutionary Psychology*'
+publication: '*Evolutionary Psychology 10*, 519-537'
 doi: 10.1177/147470491201000309
 abstract: Social learning (learning from others) is evolutionarily adaptive under
   a wide range of conditions and is a long-standing area of interest across the social
