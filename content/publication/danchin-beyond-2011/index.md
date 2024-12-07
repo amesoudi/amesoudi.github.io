@@ -4,14 +4,14 @@ authors:
 - Étienne Danchin
 - Anne Charmantier
 - Frances A. Champagne
-- Alex Mesoudi
+- admin
 - Benoit Pujol
 - Simon Blanchet
 date: '2011-07-01'
 publishDate: '2024-11-22T08:25:18.349453Z'
 publication_types:
 - article-journal
-publication: '*Nature Reviews Genetics*'
+publication: '*Nature Reviews Genetics 12*, 475-486'
 doi: 10.1038/nrg3028
 abstract: An emerging idea in evolutionary biology is that inheritance implies more
   than the sole transmission of the DNA sequence across generations. Non-genetic inheritance
@@ -35,7 +35,7 @@ abstract: An emerging idea in evolutionary biology is that inheritance implies m
   that affects fitness will change subsequent selective pressures. Examples include
   the webs, nests, dams and burrows that numerous animal species create, but also
   the changes in atmospheric gases and soil nutrients brought about by bacteria and
-  plant species.Culture is the part of phenotypic variance that is transmitted through
+  plant species. Culture is the part of phenotypic variance that is transmitted through
   social learning. Recent evidence suggests that cultural transmission is widespread
   among animals. Examples concern mate choice and species recognition. Cultural selection
   constitutes another engine of evolution when it interacts with natural selection
@@ -52,6 +52,7 @@ abstract: An emerging idea in evolutionary biology is that inheritance implies m
   in order to fully grasp the richness of evolutionary processes, and we call for
   a multidimensional modern synthesis that would merge the current modern synthesis
   with an inclusive view of inheritance.
+url_pdf: publication/danchin-beyond-2011/Danchin_etal_NRG_2011.pdf
 links:
 - name: URL
   url: https://www.nature.com/articles/nrg3028
