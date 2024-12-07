@@ -1,13 +1,14 @@
 ---
-title: When Do People Prefer Dominant over Prestigious Political Leaders?
+title: When do people prefer dominant over prestigious political leaders?
 authors:
 - Ángel V. Jiménez
 - Adam Flitton
-- Alex Mesoudi
-date: '2020-01-01'
+- admin
+date: '2021-01-01'
 publishDate: '2024-11-22T08:25:18.184221Z'
+publication: '*Evolutionary Human Sciences 3*, e16'
 publication_types:
-- report
+- article-journal
 doi: 10.31219/osf.io/68zca
 abstract: 'Previous research has sought to explain the rise of right-wing populist
   leaders in terms of the evolutionary framework of dominance and prestige. In this
@@ -32,6 +33,7 @@ abstract: 'Previous research has sought to explain the rise of right-wing populi
   We conclude by suggesting that, if economic uncertainty does not directly affect
   preferences for right-wing populist leaders, other features of their discourse such
   as higher emotionality might explain their success.'
+url_pdf: publication/jimenez-when-2020/Jimenez_Flitton_Mesoudi_EvolHumSci_2021.pdf
 links:
 - name: URL
   url: https://osf.io/68zca
