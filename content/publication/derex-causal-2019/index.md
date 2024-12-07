@@ -5,12 +5,12 @@ authors:
 - Maxime Derex
 - Jean-François Bonnefon
 - Robert Boyd
-- Alex Mesoudi
+- admin
 date: '2019-05-01'
 publishDate: '2024-11-22T08:25:18.089301Z'
 publication_types:
 - article-journal
-publication: '*Nature Human Behaviour*'
+publication: '*Nature Human Behaviour 3*, 446–452'
 doi: 10.1038/s41562-019-0567-9
 abstract: Bows and arrows, houses and kayaks are just a few examples of the highly
   optimized tools that humans have produced and used to colonize new environments.
@@ -30,6 +30,7 @@ abstract: Bows and arrows, houses and kayaks are just a few examples of the high
   on their understanding. These results indicate that complex technologies need not
   result from enhanced causal reasoning but, instead, can emerge from the accumulation
   of improvements made across generations.
+url_pdf: publication/derex-causal-2019/Derex_etal_NatHumBeh_2019.pdf
 links:
 - name: URL
   url: https://www.nature.com/articles/s41562-019-0567-9
