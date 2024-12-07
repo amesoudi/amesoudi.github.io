@@ -4,12 +4,12 @@ authors:
 - Charlotte O. Brand
 - Stephen Heap
 - Thomas J. H. Morgan
-- Alex Mesoudi
+- admin
 date: '2020-07-01'
 publishDate: '2024-11-22T08:25:18.535597Z'
 publication_types:
 - article-journal
-publication: '*Scientific Reports*'
+publication: '*Scientific Reports 10*, 12095'
 doi: 10.1038/s41598-020-68982-4
 abstract: Prestige-biased social learning occurs when individuals preferentially learn
   from others who are highly respected, admired, copied, or attended to in their group.
@@ -30,6 +30,7 @@ abstract: Prestige-biased social learning occurs when individuals preferentially
   information was unavailable. This highlights how people flexibly and adaptively
   employ social learning strategies based on the reliability of the information that
   such strategies provide.
+url_pdf: publication/brand-emergence-2020/Brand_etal_SciRep_2020.pdf
 links:
 - name: URL
   url: https://www.nature.com/articles/s41598-020-68982-4

@@ -3,12 +3,12 @@ title: Prestige and dominance-based hierarchies exist in naturally occurring hum
   groups, but are unrelated to task-specific knowledge
 authors:
 - Charlotte O. Brand
-- Alex Mesoudi
+- admin
 date: '2019-01-01'
 publishDate: '2024-11-22T08:25:18.199056Z'
 publication_types:
 - article-journal
-publication: '*Royal Society Open Science*'
+publication: '*Royal Society Open Science 6*, 181621'
 doi: 10.1098/rsos.181621
 abstract: Prestige and dominance are thought to be two evolutionarily distinct routes
   to gaining status and influence in human social hierarchies. Prestige is attained
@@ -34,6 +34,7 @@ abstract: Prestige and dominance are thought to be two evolutionarily distinct r
   social learning opportunities. Our results suggest that prestige and dominance hierarchies
   do exist in naturally occurring social groups, but that these hierarchies may be
   more domain-specific and less flexible than we anticipated.
+url_pdf: publication/brand-prestige-2019/Brand_Mesoudi_RSOS_2019.pdf
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/full/10.1098/rsos.181621

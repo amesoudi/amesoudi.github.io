@@ -3,12 +3,12 @@ title: Cultural evolution of emotional expression in 50 years of song lyrics
 authors:
 - Charlotte O. Brand
 - Alberto Acerbi
-- Alex Mesoudi
+- admin
 date: '2019-01-01'
 publishDate: '2024-11-22T08:25:18.139060Z'
 publication_types:
 - article-journal
-publication: '*Evolutionary Human Sciences*'
+publication: '*Evolutionary Human Sciences 1*, e11'
 doi: 10.1017/ehs.2019.11
 abstract: Popular music offers a rich source of data that provides insights into long-term
   cultural evolutionary dynamics. One major trend in popular music, as well as other
@@ -31,6 +31,7 @@ tags:
 - popular music
 - sentiment analysis
 - transmission biases
+url_pdf: publication/brand-cultural-2019/Brand_Acerbi_Mesoudi_EvolHumSci_2019.pdf
 links:
 - name: URL
   url: 

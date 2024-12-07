@@ -1,5 +1,5 @@
 ---
-title: Individual-based models of cultural evolution. A step-by-step guide using R.
+title: Individual-based models of cultural evolution. A step-by-step guide using R
 authors:
 - Alberto Acerbi
 - admin

@@ -8,7 +8,7 @@ date: '2015-07-01'
 publishDate: '2024-11-22T08:25:18.342352Z'
 publication_types:
 - article-journal
-publication: '*Biology and Philosophy*'
+publication: '*Biology and Philosophy 30*, 481-503'
 doi: 10.1007/s10539-015-9490-2
 abstract: Cultural evolution studies are characterized by the notion that culture
   evolves accordingly to broadly Darwinian principles. Yet how far the analogy between

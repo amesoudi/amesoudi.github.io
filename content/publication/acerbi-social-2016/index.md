@@ -9,7 +9,7 @@ date: '2016-09-01'
 publishDate: '2024-11-22T08:25:17.858889Z'
 publication_types:
 - article-journal
-publication: '*Royal Society Open Science*'
+publication: '*Royal Society Open Science 3*, 160215'
 doi: 10.1098/rsos.160215
 abstract: The extensive use of social learning is considered a major reason for the
   ecological success of humans. Theoretical considerations, models and experiments
