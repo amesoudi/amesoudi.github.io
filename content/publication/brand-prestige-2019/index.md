@@ -3,7 +3,7 @@ title: Prestige and dominance-based hierarchies exist in naturally occurring hum
   groups, but are unrelated to task-specific knowledge
 authors:
 - Charlotte O. Brand
-- Alex Mesoudi
+- admin
 date: '2019-01-01'
 publishDate: '2024-11-22T08:25:18.199056Z'
 publication_types:
