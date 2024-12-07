@@ -3,12 +3,12 @@ title: Prestige does not affect the cultural transmission of novel controversial
   in an online transmission chain experiment
 authors:
 - Ángel V. Jiménez
-- Alex Mesoudi
+- admin
 date: '2020-08-01'
 publishDate: '2024-12-07T21:47:44.451191Z'
 publication_types:
 - article-journal
-publication: '*Journal of Cognition and Culture*'
+publication: '*Journal of Cognition and Culture 20*, 238-261'
 doi: 10.1163/15685373-12340083
 abstract: Abstract Cultural evolutionary theories define prestige as social rank that
   is freely conferred on individuals possessing superior knowledge or skill, in order
@@ -38,6 +38,7 @@ tags:
 - social status
 - transmission biases
 - transmission chain
+url_pdf: publication/jimenez-prestige-2020/Jimenez_Mesoudi_JCogCulture_2020.pdf
 links:
 - name: URL
   url: https://brill.com/view/journals/jocc/20/3-4/article-p238_4.xml
