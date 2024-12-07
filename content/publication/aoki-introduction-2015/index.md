@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Introduction to "Learning strategies and cultural evolution during the Palaeolithic"
 authors:
 - Kenichi Aoki
 - admin
@@ -7,7 +7,7 @@ date: '2015-01-01'
 publishDate: '2024-11-22T08:25:18.146884Z'
 publication_types:
 - chapter
-publication: 'In *Learning strategies and cultural evolution during the palaeolithic*'
+publication: 'In Mesoudi, A. & Aoki, K. (Eds) *Learning strategies and cultural evolution during the Palaeolithic*. Springer'
 doi: 10.1007/978-4-431-55363-2_1
 abstract: In this introductory chapter, we first provide some background on the two
   major recurrent themes of the volume, i.e. learning strategies of individuals, and
