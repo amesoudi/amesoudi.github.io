@@ -1,12 +1,12 @@
 ---
 title: 'Biological and cultural evolution: Similar but different'
 authors:
-- Alex Mesoudi
+- admin
 date: '2007-01-01'
 publishDate: '2024-11-22T08:25:17.970673Z'
 publication_types:
 - article-journal
-publication: '*Biological Theory*'
+publication: '*Biological Theory 2*, 119-123'
 doi: 10.1162/biot.2007.2.2.119
 abstract: Ever since The Origin of Species, but increasingly in recent years, parallels
   and analogies have been drawn between biological and cultural evolution, and methods,
@@ -19,4 +19,8 @@ abstract: Ever since The Origin of Species, but increasingly in recent years, pa
   on the majority of key points. Apparent disagreement may stem partly from simple
   differences in emphasis, and partly from the diversity of both biological and cultural
   evolutionary processes.
+url_pdf: publication/mesoudi-biological-2007/Mesoudi_BioT_2007a.pdf
+links:
+- name: URL
+  url: https://link.springer.com/article/10.1162/biot.2007.2.2.119
 ---
