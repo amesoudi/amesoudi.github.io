@@ -4,12 +4,12 @@ title: Experimental priming of independent and interdependent activity does not 
 authors:
 - Kesson Magid
 - Vera Sarkol
-- Alex Mesoudi
+- admin
 date: '2017-01-01'
 publishDate: '2024-11-22T08:25:18.082055Z'
 publication_types:
 - article-journal
-publication: '*Royal Society Open Science*'
+publication: '*Royal Society Open Science 4*, 161025'
 doi: 10.1098/rsos.161025
 abstract: 'Cultural psychologists have shown that people from Western countries exhibit
   more independent self-construal and analytic (rule-based) cognition than people
@@ -29,6 +29,7 @@ abstract: 'Cultural psychologists have shown that people from Western countries 
   inadequate for simulating subsistence-related behavioural practices, or that these
   measures are fixed early in development and therefore not experimentally primable,
   despite many previous studies that have purported to find such priming effects.'
+url_pdf: publication/magid-experimental-2017/Magid_etal_RSOS_2017.pdf
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/full/10.1098/rsos.161025
