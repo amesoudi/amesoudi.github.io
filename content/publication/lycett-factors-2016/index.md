@@ -6,12 +6,12 @@ authors:
 - Kerstin Schillinger
 - Metin I. Eren
 - Noreen von Cramon-Taubadel
-- Alex Mesoudi
+- admin
 date: '2016-08-01'
 publishDate: '2024-11-22T08:25:18.261535Z'
 publication_types:
 - article-journal
-publication: '*Quaternary International*'
+publication: '*Quaternary International 411*, 386-401'
 doi: 10.1016/j.quaint.2015.08.021
 abstract: The 'Acheulean' is comprised of individual knapping events undertaken by
   individual hominins. In other words, it is a particular component of hominin behavior
@@ -43,6 +43,7 @@ tags:
 - Acheulean
 - Emulation
 - Raw material
+url_pdf: publication/lycett-factors-2016/Lycett_etal_QuatInt_2016.pdf
 links:
 - name: URL
   url: http://www.sciencedirect.com/science/article/pii/S1040618215007909
