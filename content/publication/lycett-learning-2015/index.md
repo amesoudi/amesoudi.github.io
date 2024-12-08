@@ -1,16 +1,16 @@
 ---
-title: 'Learning in the acheulean: experimental insights using handaxe form as a model
+title: 'Learning in the Acheulean: Experimental insights using handaxe form as a model
   organism'
 authors:
 - Stephen J. Lycett
 - Kerstin Schillinger
 - Marius Kempe
-- Alex Mesoudi
+- admin
 date: '2015-01-01'
 publishDate: '2024-11-22T08:25:18.153593Z'
 publication_types:
 - chapter
-publication: '*Learning strategies and cultural evolution during the palaeolithic*'
+publication: 'In Mesoudi, A. & Aoki, K. (Eds) *Learning strategies and cultural evolution during the Palaeolithic.* Springer'
 doi: 10.1007/978-4-431-55363-2_11
 abstract: ‘Learning’ is a process by which an individual gains new information. In
   the case of ‘social learning’, this process occurs because at least one individual
@@ -40,6 +40,7 @@ tags:
 - Acheulean handaxes
 - Copying error
 - Cultural mutation
+url_pdf: publication/lycett-learning-2015/Lycett_et_al_RNMH_2015.pdf
 links:
 - name: URL
   url: https://doi.org/10.1007/978-4-431-55363-2_11
