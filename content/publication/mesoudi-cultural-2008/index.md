@@ -2,13 +2,13 @@
 title: 'The cultural transmission of Great Basin projectile-point technology II: an
   agent-based computer simulation'
 authors:
-- Alex Mesoudi
+- admin
 - Michael J. O'Brien
 date: '2008-01-01'
 publishDate: '2024-11-22T08:25:18.462827Z'
 publication_types:
 - article-journal
-publication: '*American Antiquity*'
+publication: '*American Antiquity 73*, 627-644'
 doi: 10.2307/25470521
 abstract: We present an agent-based computer simulation that extends a previous experimental
   simulation of the cultural transmission of projectile-point technology in the prehistoric
@@ -32,6 +32,7 @@ abstract: We present an agent-based computer simulation that extends a previous 
   and computer simulations can be useful in answering questions that are difficult
   to address with archaeological data, such as identifying the consequences of different
   modes of cultural transmission or exploring the effect of different selective environments.
+url_pdf: publication/mesoudi-cultural-2008/Mesoudi_OBrien_AmAnt_2008b.pdf
 links:
 - name: URL
   url: https://www.jstor.org/stable/25470521
