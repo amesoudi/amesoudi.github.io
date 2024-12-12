@@ -1,7 +1,7 @@
 ---
 title: The cultural evolution of technology and science
 authors:
-- Alex Mesoudi
+- admin
 - Kevin N. Laland
 - Robert Boyd
 - Briggs Buchanan
@@ -16,7 +16,7 @@ date: '2013-01-01'
 publishDate: '2024-11-22T08:25:18.447894Z'
 publication_types:
 - chapter
-publication: '*Cultural evolution: society, technology, language, and religion*'
+publication: 'In Peter J. Richerson and Morten H. Christiansen (Eds), *Cultural evolution: society, technology, language, and religion*. MIT Press'
 abstract: "This chapter explores how the principles and methods of cultural evolution
   can inform our understanding of technology and science. Both technology and science
   are prime examples of cumulative cultural evolution, with each generation preserving
@@ -36,6 +36,7 @@ abstract: "This chapter explores how the principles and methods of cultural evol
   yet interacting evolutionary processes. Outstanding issues and promising avenues
   for future investigation are highlighted and potential applications of this work
   are noted."
+url_pdf: publication/mesoudi-cultural-2013/Mesoudi_etal_Strungmann_2013.pdf
 links:
 - name: URL
   url: https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_2275705
