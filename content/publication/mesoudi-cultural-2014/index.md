@@ -2,12 +2,12 @@
 title: 'Cultural evolution in more than two dimensions: Distinguishing social learning
   biases and identifying payoff structures. A comment on Bentley et al. (2014)'
 authors:
-- Alex Mesoudi
+- admin
 date: '2014-02-01'
 publishDate: '2024-11-22T08:25:18.301127Z'
 publication_types:
 - article-journal
-publication: '*Behavioral and Brain Sciences*'
+publication: '*Behavioral and Brain Sciences 37*, 91-92'
 doi: 10.1017/S0140525X13001805
 abstract: Bentley et al.’s two-dimensional conceptual map is complementary to cultural
   evolution research that has sought to explain population-level cultural dynamics
