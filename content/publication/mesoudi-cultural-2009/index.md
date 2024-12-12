@@ -1,12 +1,12 @@
 ---
 title: The cultural dynamics of copycat suicide
 authors:
-- Alex Mesoudi
+- admin
 date: '2009-09-01'
 publishDate: '2024-11-22T08:25:18.399544Z'
 publication_types:
 - article-journal
-publication: '*PLOS ONE*'
+publication: '*PLOS ONE 4*, e7252'
 doi: 10.1371/journal.pone.0007252
 abstract: The observation that suicides sometimes cluster in space and/or time has
   led to suggestions that these clusters are caused by the social learning of suicide-related
@@ -35,6 +35,7 @@ tags:
 - Agent-based modeling
 - Mass media
 - Suicide
+url_pdf: publication/mesoudi-cultural-2009/Mesoudi_PLOSONE_2009.pdf
 links:
 - name: URL
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0007252
