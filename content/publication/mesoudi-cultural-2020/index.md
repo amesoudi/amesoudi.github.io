@@ -2,12 +2,12 @@
 title: 'Cultural evolution of football tactics: strategic social learning in managers’
   choice of formation'
 authors:
-- Alex Mesoudi
+- admin
 date: '2020-01-01'
 publishDate: '2024-11-22T08:25:18.206639Z'
 publication_types:
 - article-journal
-publication: '*Evolutionary Human Sciences*'
+publication: '*Evolutionary Human Sciences 2*, e25'
 doi: 10.1017/ehs.2020.27
 abstract: In order to adaptively solve complex problems or make difficult decisions,
   people must strategically combine personal information acquired directly from experience
@@ -31,6 +31,7 @@ tags:
 - decision-making
 - football
 - sport
+url_pdf: publication/mesoudi-cultural-2020/Mesoudi_EHS_2020.pdf
 links:
 - name: URL
   url: 
