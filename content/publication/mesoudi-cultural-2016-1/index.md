@@ -1,12 +1,12 @@
 ---
 title: 'Cultural evolution: a review of theory, findings and controversies'
 authors:
-- Alex Mesoudi
+- admin
 date: '2016-12-01'
 publishDate: '2024-11-22T08:25:18.125391Z'
 publication_types:
 - article-journal
-publication: '*Evolutionary Biology*'
+publication: '*Evolutionary Biology 43*, 481-497'
 doi: 10.1007/s11692-015-9320-0
 abstract: The last two decades have seen an explosion in research analysing cultural
   change as a Darwinian evolutionary process. Here I provide an overview of the theory
@@ -29,6 +29,7 @@ abstract: The last two decades have seen an explosion in research analysing cult
   evolution, the evolution of large-scale human cooperation, and whether social learning
   is learned or innate. I conclude by highlighting the value of using evolutionary
   methods to study culture for both the social and biological sciences.
+url_pdf: publication/mesoudi-cultural-2016-1/Mesoudi_EvolBiol_2016.pdf
 links:
 - name: URL
   url: https://link.springer.com/article/10.1007/s11692-015-9320-0
