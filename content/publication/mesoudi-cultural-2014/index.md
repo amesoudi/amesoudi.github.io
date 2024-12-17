@@ -15,6 +15,7 @@ abstract: Bentley et al.’s two-dimensional conceptual map is complementary to 
   by arguing that different social learning biases should be treated distinctly, and
   that the transparency of decisions is sometimes conflated with the actual underlying
   payoff structure of those decisions.
+url_pdf: publication/mesoudi-cultural-2014/Mesoudi_BBS_commentonBentleyetal_2014.pdf
 links:
 - name: URL
   url: 
