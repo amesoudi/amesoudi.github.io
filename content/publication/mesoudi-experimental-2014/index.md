@@ -2,13 +2,13 @@
 title: 'Experimental studies of modern human social and individual learning in an
   archaeological context: People behave adaptively, but within limits'
 authors:
-- Alex Mesoudi
+- admin
 date: '2014-01-01'
 publishDate: '2024-11-22T08:25:18.307743Z'
 publication_types:
 - chapter
-publication: '*Dynamics of Learning in Neanderthals and Modern Humans Volume 2: Cognitive
-  and Physical Perspectives*'
+publication: 'In Akazawa et al. (Eds), *Dynamics of Learning in Neanderthals and Modern Humans Volume 2: Cognitive
+  and Physical Perspectives*. Springer Japan'
 doi: 10.1007/978-4-431-54553-8_8
 abstract: It has been proposed that one reason for the success of Homo sapiens is
   our advanced learning abilities. Theoretical models suggest that complex cultural
@@ -31,6 +31,7 @@ tags:
 - Social learning
 - Cultural evolution
 - Individual learning
+url_pdf: publication/mesoudi-experimental-2014/Mesoudi_RNMH_book_2014.pdf
 links:
 - name: URL
   url: https://doi.org/10.1007/978-4-431-54553-8_8
