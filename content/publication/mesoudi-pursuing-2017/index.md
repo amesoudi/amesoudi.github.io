@@ -1,12 +1,12 @@
 ---
 title: 'Pursuing Darwin’s curious parallel: Prospects for a science of cultural evolution'
 authors:
-- Alex Mesoudi
+- admin
 date: '2017-07-01'
 publishDate: '2024-11-22T08:25:18.054484Z'
 publication_types:
 - article-journal
-publication: '*Proceedings of the National Academy of Sciences*'
+publication: '*Proceedings of the National Academy of Sciences 114*, 7853-7860'
 doi: 10.1073/pnas.1620741114
 abstract: In the past few decades, scholars from several disciplines have pursued
   the curious parallel noted by Darwin between the genetic evolution of species and
@@ -36,6 +36,7 @@ tags:
 - social learning
 - cultural evolution
 - gene–culture coevolution
+url_pdf: publication/mesoudi-pursuing-2017/Mesoudi_PNAS_2017.pdf
 links:
 - name: URL
   url: http://www.pnas.org/content/114/30/7853
