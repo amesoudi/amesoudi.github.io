@@ -1,13 +1,13 @@
 ---
 title: The hierarchical transformation of event knowledge in human cultural transmission
 authors:
-- Alex Mesoudi
+- admin
 - Andrew Whiten
 date: '2004-01-01'
 publishDate: '2024-11-22T08:25:17.919084Z'
 publication_types:
 - article-journal
-publication: '*Journal of Cognition and Culture*'
+publication: '*Journal of Cognition and Culture 4*, 1-24'
 doi: 10.1163/156853704323074732
 abstract: There is extensive evidence that adults, children, and some non-human species,
   represent routine events in the form of hierarchically structured 'action scripts,'
@@ -24,4 +24,8 @@ abstract: There is extensive evidence that adults, children, and some non-human 
   with the operation of a hierarchical bias. The findings additionally provide support
   for script theory in general, and are discussed in relation to hierarchical imitation
   in non-human primates.
+url_pdf: publication/mesoudi-hierarchical-2004/Mesoudi_Whiten_JCogCul_2004.pdf
+links:
+- name: URL
+  url: https://doi.org/10.1163/156853704323074732
 ---
