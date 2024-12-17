@@ -1,12 +1,13 @@
 ---
 title: The study of culture and evolution across disciplines
 authors:
-- Alex Mesoudi
+- admin
 date: '2020-01-01'
 publishDate: '2024-11-22T08:25:18.507150Z'
 publication_types:
 - chapter
-publication: '*Cambridge handbook of evolutionary perspectives on human behavior*'
+doi: 10.1017/9781108131797.007
+publication: 'In Workman, Reader & Barkow (Eds). *Cambridge handbook of evolutionary perspectives on human behavior*, pp.61-74'
 abstract: A source of continued tension within the evolutionary human behavioural
   / social sciences, as well as between these fields and the traditional social sciences,
   is how to conceptualise ‘culture’ in its various manifestations and guises. One
@@ -40,4 +41,8 @@ abstract: A source of continued tension within the evolutionary human behavioura
   cooperation and the demographic transition; and (v) prospects for reconciliation
   and integration of these tensions across the evolutionary human sciences and the
   social sciences more broadly.
+url_pdf: publication/mesoudi-study-2020/Mesoudi_CamHandbook_2020.pdf
+links:
+- name: URL
+  url: https://doi.org/10.1017/9781108131797.007
 ---
