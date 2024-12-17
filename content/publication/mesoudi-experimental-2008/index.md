@@ -3,12 +3,12 @@ title: "An experimental simulation of the 'copy-successful-individuals' cultural
   strategy: adaptive landscapes, producer–scrounger dynamics, and informational access
   costs"
 authors:
-- Alex Mesoudi
+- admin
 date: '2008-09-01'
 publishDate: '2024-11-22T08:25:18.391795Z'
 publication_types:
 - article-journal
-publication: '*Evolution and Human Behavior*'
+publication: '*Evolution and Human Behavior 29*, 350-363'
 doi: 10.1016/j.evolhumbehav.2008.04.005
 abstract: An experimental simulation of cultural evolution was conducted using the
   virtual arrowhead task. Participants designed 'virtual arrowheads' and tested them
@@ -40,6 +40,7 @@ tags:
 - Informational access costs
 - Producer–scrounger dynamics
 - Virtual arrowhead task
+url_pdf: publication/mesoudi-experimental-2008/Mesoudi_EHB_2008.pdf
 links:
 - name: URL
   url: http://www.sciencedirect.com/science/article/pii/S1090513808000494

@@ -2,14 +2,14 @@
 title: Is human cultural evolution Darwinian? Evidence reviewed from the perspective
   of The Origin of Species
 authors:
-- Alex Mesoudi
+- admin
 - Andrew Whiten
 - Kevin N. Laland
 date: '2004-01-01'
 publishDate: '2024-11-22T08:25:17.982687Z'
 publication_types:
 - article-journal
-publication: '*Evolution*'
+publication: '*Evolution 58*, 1-11'
 abstract: The claim that human culture evolves through the differential adoption of
   cultural variants, in a manner analogous to the evolution of biological species,
   has been greeted with much resistance and confusion. Here we demonstrate that as
@@ -21,6 +21,7 @@ abstract: The claim that human culture evolves through the differential adoption
   nothing of genes or particulate inheritance, a case for Darwinian cultural evolution
   can be made irrespective of whether unitary cultural replicators exist or whether
   cultural transmission mechanisms are well understood.
+url_pdf: publication/mesoudi-is-2004/Mesoudi_Whiten_Laland_Evol_2004.pdf
 links:
 - name: URL
   url: http://onlinelibrary.wiley.com/doi/10.1111/j.0014-3820.2004.tb01568.x/abstract

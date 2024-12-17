@@ -1,7 +1,7 @@
 ---
 title: The evolution of individual and cultural variation in social learning
 authors:
-- Alex Mesoudi
+- admin
 - Lei Chang
 - Sasha R. X. Dall
 - Alex Thornton
@@ -9,7 +9,7 @@ date: '2016-03-01'
 publishDate: '2024-11-22T08:25:18.074715Z'
 publication_types:
 - article-journal
-publication: '*Trends in Ecology and Evolution*'
+publication: '*Trends in Ecology and Evolution 31*, 215-225'
 doi: 10.1016/j.tree.2015.12.012
 abstract: It is often assumed in experiments and models that social learning abilities
   – how often individuals copy others, plus who and how they copy – are species-typical.
@@ -29,6 +29,7 @@ tags:
 - individual differences
 - personality
 - phenotypic plasticity
+url_pdf: publication/mesoudi-evolution-2016/Mesoudi_etal_TREE_2016_withSI.pdf
 links:
 - name: URL
   url: http://www.sciencedirect.com/science/article/pii/S0169534715003237

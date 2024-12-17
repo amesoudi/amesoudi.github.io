@@ -2,7 +2,7 @@
 title: Higher frequency of social learning in China than in the West shows cultural
   variation in the dynamics of cultural evolution
 authors:
-- Alex Mesoudi
+- admin
 - Lei Chang
 - Keelin Murray
 - Hui Jing Lu
@@ -10,7 +10,7 @@ date: '2015-01-01'
 publishDate: '2024-11-22T08:25:18.420800Z'
 publication_types:
 - article-journal
-publication: '*Proceedings of the Royal Society B*'
+publication: '*Proceedings of the Royal Society B 282*, 20142209'
 doi: 10.1098/rspb.2014.2209
 abstract: Cultural evolutionary models have identified a range of conditions under
   which social learning (copying others) is predicted to be adaptive relative to asocial
@@ -30,6 +30,7 @@ abstract: Cultural evolutionary models have identified a range of conditions und
   fixed, necessitating the study of the ‘social learning of social learning strategies'
   whereby the dynamics of cultural evolution are responsive to social processes, such
   as migration, education and globalization.
+url_pdf: publication/mesoudi-higher-2015/Mesoudi_etal_ProcB_2015.pdf
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/full/10.1098/rspb.2014.2209

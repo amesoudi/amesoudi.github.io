@@ -2,14 +2,14 @@
 title: How do people become W.E.I.R.D.? Migration reveals the cultural transmission
   mechanisms underlying variation in psychological processes
 authors:
-- Alex Mesoudi
+- admin
 - Kesson Magid
 - Delwar Hussain
 date: '2016-01-01'
 publishDate: '2024-11-22T08:25:18.046381Z'
 publication_types:
 - article-journal
-publication: '*PLOS ONE*'
+publication: '*PLOS ONE 11*, e0147162'
 doi: 10.1371/journal.pone.0147162
 abstract: 'Cultural psychologists have shown that people from Western, Educated, Industrialised,
   Rich, Democratic (WEIRD) countries often exhibit different psychological processing
@@ -46,6 +46,7 @@ tags:
 - Bangladesh
 - Cross-cultural studies
 - Human learning
+url_pdf: publication/mesoudi-how-2016/Mesoudi_Magid_Hussain_PLOSONE_2016.pdf
 links:
 - name: URL
   url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147162

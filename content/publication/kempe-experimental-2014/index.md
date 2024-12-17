@@ -2,12 +2,12 @@
 title: Experimental and theoretical models of human cultural evolution
 authors:
 - Marius Kempe
-- Alex Mesoudi
+- admin
 date: '2014-04-01'
 publishDate: '2024-11-22T08:25:17.866316Z'
 publication_types:
 - article-journal
-publication: '*Wiley Interdisciplinary Reviews: Cognitive Science*'
+publication: '*Wiley Interdisciplinary Reviews: Cognitive Science 5*, 317–326'
 doi: 10.1002/wcs.1288
 abstract: 'The modern field of cultural evolution is now over 30 years old, and an
   extensive body of theory and data has been amassed. This article reviews models
@@ -21,6 +21,7 @@ abstract: 'The modern field of cultural evolution is now over 30 years old, and 
   integration of theoretical models and experimental data, the identification of the
   factors underlying cumulative cultural evolution, and the explanation of individual
   and cultural variation in social learning biases.'
+url_pdf: publication/kempe-experimental-2014/Kempe_Mesoudi_WIREcogsci_2014.pdf
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/full/10.1002/wcs.1288

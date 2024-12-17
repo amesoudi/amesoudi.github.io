@@ -2,12 +2,12 @@
 title: 'An experimental comparison of human social learning strategies: payoff-biased
   social learning is adaptive but underused'
 authors:
-- Alex Mesoudi
+- admin
 date: '2011-09-01'
 publishDate: '2024-11-22T08:25:17.997054Z'
 publication_types:
 - article-journal
-publication: '*Evolution and Human Behavior*'
+publication: '*Evolution and Human Behavior 32*, 334-342'
 doi: 10.1016/j.evolhumbehav.2010.12.001
 abstract: 'Analytical models have identified a set of social learning strategies that
   are predicted to be adaptive relative to individual (asocial) learning. In the present
@@ -36,6 +36,7 @@ tags:
 - conformity
 - Payoff-biased social learning
 - Random copying
+url_pdf: publication/mesoudi-experimental-2011/Mesoudi_EHB_2011.pdf
 links:
 - name: URL
   url: http://www.sciencedirect.com/science/article/pii/S1090513810001443

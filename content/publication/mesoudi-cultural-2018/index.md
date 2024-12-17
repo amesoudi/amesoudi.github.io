@@ -1,12 +1,12 @@
 ---
 title: Cultural Evolution
 authors:
-- Alex Mesoudi
+- admin
 date: '2018-01-01'
 publishDate: '2024-11-22T08:25:18.214007Z'
 publication_types:
 - chapter
-publication: '*eLS*'
+publication: '*eLS (Encyclopedia of Life Sciences)*'
 doi: 10.1002/9780470015902.a0028231
 abstract: Cultural evolution is the idea that cultural change, that is changes in
   socially acquired information such as knowledge or beliefs, constitutes a Darwinian
@@ -51,6 +51,7 @@ tags:
 - culture
 - animal culture
 - human behaviour
+url_pdf: publication/mesoudi-cultural-2018/Mesoudi_eLS_2018.pdf
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470015902.a0028231

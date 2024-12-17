@@ -1,13 +1,13 @@
 ---
 title: Ethics, evolution and culture
 authors:
-- Alex Mesoudi
+- admin
 - Peter Danielson
 date: '2008-01-01'
 publishDate: '2024-11-22T08:25:18.428047Z'
 publication_types:
 - article-journal
-publication: '*Theory in Biosciences*'
+publication: '*Theory in Biosciences 127*, 229-240'
 doi: 10.1007/s12064-008-0027-y
 abstract: Recent work in the fields of evolutionary ethics and moral psychology appears
   to be converging on a single empirically- and evolutionary-based science of morality
@@ -22,6 +22,7 @@ abstract: Recent work in the fields of evolutionary ethics and moral psychology 
   theoretical concepts (e.g. different cultural transmission mechanisms) and empirical
   methods (e.g. evolutionary game theory) that can significantly improve our understanding
   of human morality.
+url_pdf: publication/mesoudi-ethics-2008/Mesoudi_Danielson_TIB_2008.pdf
 links:
 - name: URL
   url: 

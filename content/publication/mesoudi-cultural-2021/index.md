@@ -1,12 +1,12 @@
 ---
 title: 'Cultural selection and biased transformation: two dynamics of cultural evolution'
 authors:
-- Alex Mesoudi
+- admin
 date: '2021-01-01'
 publishDate: '2024-11-22T08:25:18.562841Z'
 publication_types:
 - article-journal
-publication: '*Philosophical Transactions of the Royal Society B*'
+publication: '*Philosophical Transactions of the Royal Society B 376*, 20200053'
 doi: 10.1098/rstb.2020.0053
 abstract: Here I discuss two broad versions of human cultural evolution which currently
   exist in the literature and which emphasise different underlying dynamics. One,
@@ -24,4 +24,8 @@ abstract: Here I discuss two broad versions of human cultural evolution which cu
   underlie both cultural selection and biased transformation. Nevertheless, fine grained
   historical analysis and lab experiments, combined with formal models to generate
   quantitative predictions, offer the best way of distinguishing them.
+url_pdf: publication/mesoudi-cultural-2021/Mesoudi_PhilTrans_2021.pdf
+links:
+- name: URL
+  url: https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0053
 ---

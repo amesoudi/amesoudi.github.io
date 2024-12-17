@@ -1,12 +1,12 @@
 ---
 title: Cultural evolution and cultural psychology
 authors:
-- Alex Mesoudi
+- admin
 date: '2019-01-01'
 publishDate: '2024-11-22T08:25:18.498432Z'
 publication_types:
 - chapter
-publication: '*Handbook of Cultural Psychology 2nd edition*'
+publication: 'In Kitayama S. and Cohen D. (Eds), *Handbook of Cultural Psychology 2nd edition*. Guilford Press'
 abstract: Cultural evolution is a branch of the evolutionary sciences which assumes
   that (i) human cognition and behaviour is shaped not only by genetic inheritance,
   but also cultural inheritance (also known as social learning), and (ii) this cultural
@@ -37,4 +37,5 @@ abstract: Cultural evolution is a branch of the evolutionary sciences which assu
   such as experimental psychology and neuroscience on the one hand, and society-oriented
   disciplines such as anthropology, history and sociology on the other, all within
   an evolutionary framework that provides links to the biological sciences.
+url_pdf: publication/mesoudi-cultural-2019/Mesoudi_CPhandbook_2019.pdf
 ---

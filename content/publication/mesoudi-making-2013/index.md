@@ -1,13 +1,14 @@
 ---
 title: Making sense of culture. Book review of Culture Evolves by Whiten et al.
 authors:
-- Alex Mesoudi
+- admin
 date: '2013-01-01'
 publishDate: '2024-11-22T08:25:18.315010Z'
 publication_types:
-- article-journal
-publication: '*Trends in Ecology and Evolution*'
+- book-review
+publication: '*Trends in Ecology and Evolution 11*, 626-627'
 doi: 10.1016/j.tree.2013.05.016
+url_pdf: publication/mesoudi-making-2013/Mesoudi_TREE_2013.pdf
 links:
 - name: URL
   url: 

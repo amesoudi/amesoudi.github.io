@@ -2,12 +2,12 @@
 title: 'Mass shooting and mass media : does media coverage of mass shootings inspire
   copycat crimes?'
 authors:
-- Alex Mesoudi
+- admin
 date: '2013-02-01'
 publishDate: '2024-11-22T08:25:18.328524Z'
 publication_types:
 - article-journal
-publication: '*International human press.*'
+publication: '*International Human Press*'
 abstract: In December 2012, twenty elementary school children and six adult staff
   members were shot and killed by a single individual at a school in Connecticut.
   Although this horrific event was met with widespread shock, Americans are sadly
@@ -17,6 +17,7 @@ abstract: In December 2012, twenty elementary school children and six adult staf
   more than most other countries, they are by no means a uniquely American phenomenon.
   In 1996 sixteen kindergarten children were shot and killed in Dunblane, Scotland,
   and in 2011 69 teenagers were killed on an island retreat in Norway.
+url_pdf: publication/mesoudi-mass-2013/Mesoudi_IntHumPress_2013.pdf
 links:
 - name: URL
   url: http://ithp.org/articles/mediacopycatshootings.html

@@ -4,12 +4,12 @@ title: An experimental test of the accumulated copying error model of cultural m
 authors:
 - Marius Kempe
 - Stephen Lycett
-- Alex Mesoudi
+- admin
 date: '2012-11-01'
 publishDate: '2024-11-22T08:25:18.364808Z'
 publication_types:
 - article-journal
-publication: '*PLOS ONE*'
+publication: '*PLOS ONE 7*, e48333'
 doi: 10.1371/journal.pone.0048333
 abstract: Archaeologists interested in explaining changes in artifact morphology over
   long time periods have found it useful to create models in which the only source
@@ -45,6 +45,7 @@ tags:
 - Hominins
 - Normal distribution
 - Psychophysics
+url_pdf: publication/kempe-experimental-2012/Kempe_etal_PLOSONE_2012.pdf
 links:
 - name: URL
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048333

@@ -4,12 +4,12 @@ title: 'From cultural traditions to cumulative culture: Parameterizing the diffe
 authors:
 - Marius Kempe
 - Stephen J. Lycett
-- Alex Mesoudi
+- admin
 date: '2014-10-01'
 publishDate: '2024-11-22T08:25:17.989361Z'
 publication_types:
 - article-journal
-publication: '*Journal of Theoretical Biology*'
+publication: '*Journal of Theoretical Biology 359*, 29-36'
 doi: 10.1016/j.jtbi.2014.05.046
 abstract: Diverse species exhibit cultural traditions, i.e. population-specific profiles
   of socially learned traits, from songbird dialects to primate tool-use behaviours.
@@ -39,6 +39,7 @@ tags:
 - innovation
 - Animal culture
 - Demography
+url_pdf: publication/kempe-cultural-2014/Kempe_Lycett_Mesoudi_JTB_2014.pdf
 links:
 - name: URL
   url: http://www.sciencedirect.com/science/article/pii/S002251931400335X

@@ -2,12 +2,12 @@
 title: An experimental demonstration of the effect of group size on cultural accumulation
 authors:
 - Marius Kempe
-- Alex Mesoudi
+- admin
 date: '2014-07-01'
 publishDate: '2024-11-22T08:25:18.377391Z'
 publication_types:
 - article-journal
-publication: '*Evolution and Human Behavior*'
+publication: '*Evolution and Human Behavior 35*, 285-290'
 doi: 10.1016/j.evolhumbehav.2014.02.009
 abstract: 'Cumulative culture is thought to have played a major role in hominin evolution,
   and so an understanding of the factors that affect cultural accumulation is important
@@ -30,6 +30,7 @@ tags:
 - Cumulative culture
 - Group size
 - Human evolution
+url_pdf: publication/kempe-experimental-2014-1/Kempe_Mesoudi_EHB_2014.pdf
 links:
 - name: URL
   url: http://www.sciencedirect.com/science/article/pii/S1090513814000294

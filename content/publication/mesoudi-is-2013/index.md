@@ -2,7 +2,7 @@
 title: Is non-genetic inheritance just a proximate mechanism? A corroboration of the
   extended evolutionary synthesis
 authors:
-- Alex Mesoudi
+- admin
 - Simon Blanchet
 - Anne Charmantier
 - Etienne Danchin
@@ -16,7 +16,7 @@ date: '2013-01-01'
 publishDate: '2024-11-22T08:25:17.931405Z'
 publication_types:
 - article-journal
-publication: '*Biological Theory*'
+publication: '*Biological Theory 7*, 189-195'
 doi: 10.1007/S13752-013-0091-5
 abstract: What role does non-genetic inheritance play in evolution? In recent work
   we have independently and collectively argued that the existence and scope of non-genetic
@@ -39,4 +39,8 @@ abstract: What role does non-genetic inheritance play in evolution? In recent wo
   to provide an explanation for biological organization. We conclude by noting ways
   in which we feel that an overly gene-centric theory of evolution is hindering progress
   in biology and other sciences.
+url_pdf: publication/mesoudi-is-2013/Mesoudi_etal_BiolTheory_2013.pdf
+links:
+- name: URL
+  url: https://doi.org/10.1007/S13752-013-0091-5
 ---

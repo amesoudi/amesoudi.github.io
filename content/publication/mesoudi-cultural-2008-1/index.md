@@ -2,13 +2,13 @@
 title: 'The cultural transmission of Great Basin projectile point technology I: An
   experimental simulation'
 authors:
-- Alex Mesoudi
+- admin
 - Michael J. O'Brien
 date: '2008-01-01'
 publishDate: '2024-11-22T08:25:18.011789Z'
 publication_types:
 - article-journal
-publication: '*American Antiquity*'
+publication: '*American Antiquity 73*, 3-28'
 doi: 10.2307/25470456
 abstract: A Darwinian evolutionary approach to archaeology naturally leads to a focus
   on cultural transmission. Theoretical models of cultural evolution indicate that
@@ -29,6 +29,7 @@ abstract: A Darwinian evolutionary approach to archaeology naturally leads to a 
   that experimental simulations of cultural transmission, used alongside archaeological
   data, mathematical models and computer simulations, constitute a useful tool for
   studying cultural change.
+url_pdf: publication/mesoudi-cultural-2008-1/Mesoudi_OBrien_AmAnt_2008a.pdf
 links:
 - name: URL
   url: http://www.jstor.org/stable/25470456
