@@ -2,13 +2,13 @@
 title: Culturally transmitted paternity beliefs and the evolution of human mating
   behaviour
 authors:
-- Alex Mesoudi
+- admin
 - Kevin N Laland
 date: '2007-05-01'
 publishDate: '2024-11-22T08:25:18.438701Z'
 publication_types:
 - article-journal
-publication: '*Proceedings of the Royal Society B: Biological Sciences*'
+publication: '*Proceedings of the Royal Society B 1615*, 1273-1278'
 doi: 10.1098/rspb.2006.0396
 abstract: Recent anthropological findings document how certain lowland South American
   societies hold beliefs in ‘partible paternity’, which allow children to have more
@@ -28,6 +28,7 @@ abstract: Recent anthropological findings document how certain lowland South Ame
   facilitated by a female-biased sex ratio, leading to the present-day associations
   of female control, partible paternity and polygamy in some societies, and male control,
   singular paternity and monogamy in others.
+url_pdf: publication/mesoudi-culturally-2007/Mesoudi_Laland_ProcB_2007.pdf
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/full/10.1098/rspb.2006.0396
