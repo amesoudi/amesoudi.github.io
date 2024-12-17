@@ -1,7 +1,7 @@
 ---
 title: Learning strategies and cultural evolution during the palaeolithic
 authors:
-- Alex Mesoudi
+- admin
 - Kenichi Aoki
 date: '2015-01-01'
 publishDate: '2024-11-22T08:25:18.168679Z'
