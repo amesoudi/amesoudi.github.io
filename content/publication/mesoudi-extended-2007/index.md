@@ -9,4 +9,5 @@ publication_types:
 - article-journal
 publication: '*Behavioral and Brain Sciences 30*, 374'
 doi: 10.1017/S0140525X07002324
+url_pdf: publication/mesoudi-extended-2007/Mesoudi_BBS_commentonJablonkaLamb_2007.pdf
 ---
