@@ -1,12 +1,12 @@
 ---
 title: Culture and the Darwinian Renaissance in the social sciences and humanities
 authors:
-- Alex Mesoudi
+- admin
 date: '2011-06-01'
 publishDate: '2024-11-22T08:25:18.414059Z'
 publication_types:
 - article-journal
-publication: '*Journal of Evolutionary Psychology*'
+publication: '*Journal of Evolutionary Psychology 2*, 109-124'
 doi: 10.1556/jep.9.2011.29.1
 abstract: A 'Darwinian Renaissance' in the social sciences and humanities cannot occur
   until evolutionary theory can successfully explain rapid and cumulative cultural
@@ -19,6 +19,7 @@ abstract: A 'Darwinian Renaissance' in the social sciences and humanities cannot
   These include phylogenetic reconstructions of the historical relationships between
   languages, manuscripts, social customs and artifacts, and experimental simulations
   of the microevolutionary processes underlying patterns of cultural macroevolution.
+url_pdf: publication/mesoudi-culture-2011/Mesoudi_JEP_2011.pdf
 links:
 - name: URL
   url: https://akjournals.com/view/journals/1126/9/2/article-p109.xml
