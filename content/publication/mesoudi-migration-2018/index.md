@@ -1,12 +1,12 @@
 ---
 title: Migration, acculturation, and the maintenance of between-group cultural variation
 authors:
-- Alex Mesoudi
+- admin
 date: '2018-10-01'
 publishDate: '2024-11-22T08:25:18.103627Z'
 publication_types:
 - article-journal
-publication: '*PLOS ONE*'
+publication: '*PLOS ONE 13*, e0205573'
 doi: 10.1371/journal.pone.0205573
 abstract: How do migration and acculturation (i.e. psychological or behavioral change
   resulting from migration) affect within- and between-group cultural variation? Here
@@ -43,6 +43,7 @@ tags:
 - Population genetics
 - Behavior
 - Economics of migration
+url_pdf: publication/mesoudi-migration-2018/Mesoudi_PLOSONE_2018.pdf
 links:
 - name: URL
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205573
