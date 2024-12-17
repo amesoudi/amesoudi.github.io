@@ -1,14 +1,14 @@
 ---
 title: Towards a unified science of cultural evolution
 authors:
-- Alex Mesoudi
+- admin
 - Andrew Whiten
 - Kevin N. Laland
 date: '2006-01-01'
 publishDate: '2024-11-22T08:25:18.118602Z'
 publication_types:
 - article-journal
-publication: '*Behavioral and Brain Sciences*'
+publication: '*Behavioral and Brain Sciences 29*, 329-383'
 doi: 10.1017/S0140525X06009083
 abstract: We suggest that human culture exhibits key Darwinian evolutionary properties,
   and argue that the structure of a science of cultural evolution should share fundamental
@@ -26,4 +26,8 @@ abstract: We suggest that human culture exhibits key Darwinian evolutionary prop
   fundamental issues have yet to be resolved. It is argued that studying culture within
   a unifying evolutionary framework has the potential to integrate a number of separate
   disciplines within the social sciences.
+url_pdf: publication/mesoudi-towards-2006/Mesoudi_Whiten_Laland_BBS_2006.pdf
+links:
+- name: URL
+  url: https://doi.org/10.1017/S0140525X06009083
 ---
