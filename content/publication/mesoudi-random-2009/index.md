@@ -1,13 +1,13 @@
 ---
 title: Random copying, frequency-dependent copying and culture change
 authors:
-- Alex Mesoudi
+- admin
 - Stephen J. Lycett
 date: '2009-01-01'
 publishDate: '2024-11-22T08:25:18.455424Z'
 publication_types:
 - article-journal
-publication: '*Evolution and Human Behavior*'
+publication: '*Evolution and Human Behavior 30*, 41-48'
 doi: 10.1016/j.evolhumbehav.2008.07.005
 abstract: Previous evolutionary analyses of human culture have found that a simple
   model of random copying, analogous to neutral genetic drift, can generate the distinct
@@ -32,6 +32,7 @@ tags:
 - Frequency-dependent copying
 - Neutral drift
 - Power law
+url_pdf: publication/mesoudi-random-2009/Mesoudi_Lycett_EHB_2009.pdf
 links:
 - name: URL
   url: http://www.sciencedirect.com/science/article/pii/S1090513808000810
