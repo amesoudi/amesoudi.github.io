@@ -1,14 +1,14 @@
 ---
 title: Integrating genetic and cultural evolutionary approaches to language
 authors:
-- Alex Mesoudi
+- admin
 - Alan G. McElligott
 - David Adger
 date: '2011-01-01'
 publishDate: '2024-11-22T08:25:17.938748Z'
 publication_types:
 - article-journal
-publication: '*Human Biology*'
+publication: '*Human Biology 83*, 141-151'
 doi: 10.3378/027.083.0201
 abstract: The papers in this special issue of Human Biology address recent research
   in the field of language evolution, both the genetic evolution of the language faculty
@@ -30,4 +30,8 @@ abstract: The papers in this special issue of Human Biology address recent resea
   hominin species, and determining the strength, domain specificity, and origin of
   the cultural transmission biases that shape languages as they pass along successive
   generations of language learners.
+url_pdf: publication/mesoudi-integrating-2011/Mesoudi_McElligott_Adger_HumBiol_2011.pdf
+links:
+- name: URL
+  url: https://doi.org/10.3378/027.083.0201
 ---
