@@ -1,12 +1,12 @@
 ---
 title: How cultural evolutionary theory can inform social psychology and vice versa
 authors:
-- Alex Mesoudi
+- admin
 date: '2009-01-01'
 publishDate: '2024-11-22T08:25:18.018998Z'
 publication_types:
 - article-journal
-publication: '*Psychological Review*'
+publication: '*Psychological Review 116*, 929-952'
 doi: 10.1037/a0017062
 abstract: Cultural evolutionary theory is an interdisciplinary field in which human
   culture is viewed as a Darwinian process of variation, competition, and inheritance,
@@ -33,4 +33,8 @@ tags:
 - Conformity (Personality)
 - Darwinism
 - Social Comparison
+url_pdf: publication/mesoudi-how-2009/Mesoudi_PsychRev_2009.pdf
+links:
+- name: URL
+  url: https://doi.org/10.1037/a0017062
 ---
