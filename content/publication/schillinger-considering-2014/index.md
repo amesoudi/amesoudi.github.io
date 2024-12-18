@@ -3,13 +3,13 @@ title: 'Considering the role of time budgets on copy-error rates in material cul
   traditions: An experimental assessment'
 authors:
 - Kerstin Schillinger
-- Alex Mesoudi
+- admin
 - Stephen J. Lycett
 date: '2014-05-01'
 publishDate: '2024-11-22T08:25:18.477312Z'
 publication_types:
 - article-journal
-publication: '*PLOS ONE*'
+publication: '*PLOS ONE 9*, e97157'
 doi: 10.1371/journal.pone.0097157
 abstract: Ethnographic research highlights that there are constraints placed on the
   time available to produce cultural artefacts in differing circumstances. Given that
@@ -44,6 +44,7 @@ tags:
 - Hunting behavior
 - Manufacturing processes
 - Morphometry
+url_pdf: publication/schillinger-considering-2014/Schillinger_Mesoudi_Lycett_PLOSONE_2014.pdf
 links:
 - name: URL
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0097157
