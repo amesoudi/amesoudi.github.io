@@ -6,8 +6,7 @@ date: '2008-01-01'
 publishDate: '2024-11-22T08:25:17.913367Z'
 publication_types:
 - chapter
-publication: '*Behavioral and Brain Sciences 37*, 91-92'
-doi: 10.1017/S0140525X13001805
+publication: 'In O'Brien (Ed), *Cultural transmission and archaeology: Issues and case studies*. pp.91-101. SAA Press'
 abstract: Bentley et al.’s two-dimensional conceptual map is complementary to cultural
   evolution research that has sought to explain population-level cultural dynamics
   in terms of individual-level behavioral processes. Here, I qualify their scheme
