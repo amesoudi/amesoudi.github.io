@@ -1,6 +1,5 @@
 ---
-title: 'Cultural evolution in more than two dimensions: Distinguishing social learning
-  biases and identifying payoff structures. A comment on Bentley et al. (2014)'
+title: 'The experimental study of cultural transmission and its potential for explaining archaeological data'
 authors:
 - admin
 date: '2014-02-01'
