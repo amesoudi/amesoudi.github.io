@@ -8,6 +8,7 @@ publishDate: '2024-11-22T08:25:18.067957Z'
 publication_types:
 - book
 publication: '*University of Chicago Press*'
+featured: true
 abstract: Charles Darwin changed the course of scientific thinking by showing how
   evolution accounts for the stunning diversity and biological complexity of life
   on earth. Recently, there has also been increased interest in the social sciences
