@@ -1,14 +1,14 @@
 ---
 title: Why aren't the social sciences Darwinian?
 authors:
-- Alex Mesoudi
+- admin
 - Djuke Veldhuis
 - Robert A. Foley
 date: '2010-01-01'
 publishDate: '2024-11-22T08:25:17.892821Z'
 publication_types:
 - article-journal
-publication: '*Journal of Evolutionary Psychology*'
+publication: '*Journal of Evolutionary Psychology 8*, 93-104'
 doi: 10.1556/jep.8.2010.2.1
 abstract: At the inception of the social sciences in the late 19th century, early
   psychologists, anthropologists, archaeologists and sociologists frequently proposed
@@ -30,4 +30,8 @@ abstract: At the inception of the social sciences in the late 19th century, earl
   non-scientific perspectives such as social constructionism. While this is a broader
   epistemological issue, the application of evolutionary methods to social phenomena
   may provide the best and most direct support for the value of the scientific method.
+url_pdf: publication/mesoudi-why-2010/Mesoudi_etal_JEP_2010.pdf
+links:
+- name: URL
+  url: https://doi.org/10.1007/s10539-015-9490-2
 ---
