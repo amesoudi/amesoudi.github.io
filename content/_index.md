@@ -83,7 +83,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured Books
       filters:
         folders:
           - publication
