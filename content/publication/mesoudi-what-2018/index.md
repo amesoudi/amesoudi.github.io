@@ -1,13 +1,13 @@
 ---
 title: What is cumulative cultural evolution?
 authors:
-- Alex Mesoudi
+- admin
 - Alex Thornton
 date: '2018-06-01'
 publishDate: '2024-11-22T08:25:17.851620Z'
 publication_types:
 - article-journal
-publication: '*Proceedings of the Royal Society B*'
+publication: '*Proceedings of the Royal Society B 285*, 20180712'
 doi: 10.1098/rspb.2018.0712
 abstract: In recent years, the phenomenon of cumulative cultural evolution (CCE) has
   become the focus of major research interest in biology, psychology and anthropology.
@@ -24,6 +24,7 @@ abstract: In recent years, the phenomenon of cumulative cultural evolution (CCE)
   in light of these more fine-grained criteria. Finally, we discuss key issues surrounding
   information, fitness and cognition. We recommend that researchers are more explicit
   about what components of CCE they are testing and claiming to demonstrate.
+url_pdf: publication/mesoudi-what-2018/Mesoudi_Thornton_ProcB_2018.pdf
 links:
 - name: URL
   url: http://rspb.royalsocietypublishing.org/content/285/1880/20180712
