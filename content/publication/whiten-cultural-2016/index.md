@@ -3,12 +3,12 @@ title: Cultural diffusion in humans and other animals
 authors:
 - Andrew Whiten
 - Christine A Caldwell
-- Alex Mesoudi
+- admin
 date: '2016-04-01'
 publishDate: '2024-11-22T08:25:18.032832Z'
 publication_types:
 - article-journal
-publication: '*Current Opinion in Psychology*'
+publication: '*Current Opinion in Psychology 8*, 15-21'
 doi: 10.1016/j.copsyc.2015.09.002
 abstract: Recent years have seen an enormous expansion and progress in studies of
   the cultural diffusion processes through which behaviour patterns, ideas and artifacts
@@ -21,6 +21,7 @@ abstract: Recent years have seen an enormous expansion and progress in studies o
   cultural diffusion experiments with captive and natural populations that have facilitated
   the rigorous identification and analysis of cultural diffusion in species from insects
   to humans.
+url_pdf: publication/whiten-cultural-2016/Whiten_Caldwell_Mesoudi_CurrOpinPsych_2016.pdf
 links:
 - name: URL
   url: http://www.sciencedirect.com/science/article/pii/S2352250X15002213
