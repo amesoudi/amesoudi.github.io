@@ -3,12 +3,12 @@ title: Do online voting patterns reflect evolved features of human cognition? An
   empirical investigation
 authors:
 - Maria Priestley
-- Alex Mesoudi
+- admin
 date: '2015-06-01'
 publishDate: '2024-11-22T08:25:18.291839Z'
 publication_types:
 - article-journal
-publication: '*PLOS ONE*'
+publication: '*PLOS ONE 10*, e0129703'
 doi: 10.1371/journal.pone.0129703
 abstract: Online votes or ratings can assist internet users in evaluating the credibility
   and appeal of the information which they encounter. For example, aggregator websites
@@ -38,6 +38,7 @@ tags:
 - Emotions
 - Intelligence
 - Prosocial behavior
+url_pdf: publication/priestley-online-2015/Priestley_Mesoudi_PLOSONE_2015.pdf
 links:
 - name: URL
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0129703
