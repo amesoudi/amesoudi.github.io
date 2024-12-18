@@ -33,4 +33,9 @@ abstract: 'Individual-Based Models of Cultural Evolution shows readers how to cr
   an essential resource for researchers and students interested in cultural evolution,
   including disciplines such as psychology, anthropology, archaeology, and biology
   as well as sociology and digital humanities.'
+tags:
+- Book
+links:
+- name: URL
+  url: https://www.routledge.com/Individual-Based-Models-of-Cultural-Evolution-A-Step-by-Step-Guide-Using-R/Acerbi-Mesoudi-Smolla/p/book/9781032252063
 ---
