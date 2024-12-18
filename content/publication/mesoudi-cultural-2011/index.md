@@ -3,7 +3,7 @@ title: 'Cultural evolution: How Darwinian theory can explain human culture and s
   the social sciences'
 authors:
 - admin
-date: '2011'
+date: '2011-09-01'
 publishDate: '2024-11-22T08:25:18.067957Z'
 publication_types:
 - book
