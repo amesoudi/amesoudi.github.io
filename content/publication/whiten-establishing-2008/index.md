@@ -2,12 +2,12 @@
 title: 'Establishing an experimental science of culture: animal social diffusion experiments'
 authors:
 - Andrew Whiten
-- Alex Mesoudi
+- admin
 date: '2008-11-01'
 publishDate: '2024-11-22T08:25:18.485257Z'
 publication_types:
 - article-journal
-publication: '*Philosophical Transactions of the Royal Society B*'
+publication: '*Philosophical Transactions of the Royal Society B 363*, 3477-3488'
 doi: 10.1098/rstb.2008.0134
 abstract: A growing set of observational studies documenting putative cultural variations
   in wild animal populations has been complemented by experimental studies that can
@@ -26,6 +26,7 @@ abstract: A growing set of observational studies documenting putative cultural v
   of up to 24 individuals and along chains of up to 14 transmission events. We survey
   the achievements of this work, its prospects for the future and its relationship
   to diffusion studies with humans discussed in this theme issue and elsewhere.
+url_pdf: publication/whiten-establishing-2008/Whiten_Mesoudi_PhilTrans_2008.pdf
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/full/10.1098/rstb.2008.0134
