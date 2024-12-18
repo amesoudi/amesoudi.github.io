@@ -8,7 +8,7 @@ date: '2013-06-01'
 publishDate: '2024-11-22T08:25:18.321110Z'
 publication_types:
 - article-journal
-publication: '*PLOS ONE*'
+publication: '*PLOS ONE 8*, e64825'
 doi: 10.1371/journal.pone.0064825
 abstract: Sexual selection has resulted in sex-based size dimorphism in many mammals,
   including humans. In Western societies, average to taller stature men and comparatively
@@ -36,6 +36,7 @@ tags:
 - Physiological parameters
 - Syllables
 - Vowels
+url_pdf: publication/pitcher-sex-biased-2013/Pitcher_etal_PLOSONE_2013.pdf
 links:
 - name: URL
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064825
