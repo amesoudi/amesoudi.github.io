@@ -3,13 +3,13 @@ title: Cultural traits as units of analysis
 authors:
 - Michael J. O'Brien
 - R. Lee Lyman
-- Alex Mesoudi
+- admin
 - Todd L. VanPool
 date: '2010-12-01'
 publishDate: '2024-11-22T08:25:18.470284Z'
 publication_types:
 - article-journal
-publication: '*Philosophical Transactions of the Royal Society B: Biological Sciences*'
+publication: '*Philosophical Transactions of the Royal Society B 365*, 3797-3806'
 doi: 10.1098/rstb.2010.0012
 abstract: Cultural traits have long been used in anthropology as units of transmission
   that ostensibly reflect behavioural characteristics of the individuals or groups
@@ -24,6 +24,7 @@ abstract: Cultural traits have long been used in anthropology as units of transm
   the transmission (and modification) of cultural traits, provided there is analytical
   clarity over how to define and measure the units that underlie this inheritance
   process.
+url_pdf: publication/obrien-cultural-2010/OBrien_etal_PhilTrans_2010.pdf
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/full/10.1098/rstb.2010.0012
