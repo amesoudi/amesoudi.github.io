@@ -6,7 +6,7 @@ authors:
 - A. L. Balbo
 - E. Gomez-Baggethun
 - M. Gueze
-- Alex Mesoudi
+- admin
 - Peter J. Richerson
 - Xavier Rubio-Campillo
 - I. Ruiz-Mallén
@@ -15,8 +15,7 @@ date: '2016-12-01'
 publishDate: '2024-11-22T08:25:18.254067Z'
 publication_types:
 - article-journal
-publication: '*Ecology and society : a journal of integrative science for resilience
-  and sustainability*'
+publication: '*Ecology and Society 21*, 2'
 doi: 10.5751/ES-08561-210402
 abstract: Cultural adaptation has become central in the context of accelerated global
   change with authors increasingly acknowledging the importance of understanding multilevel
@@ -34,6 +33,7 @@ abstract: Cultural adaptation has become central in the context of accelerated g
   help explain observed patterns in the cultural adaptive process. We end the paper
   discussing the potential of modelling and computer simulation for studying multilevel
   processes in cultural adaptation.
+url_pdf: publication/ReyesGarcia_etal_EcologySociety_2016.pdf
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5068551/
