@@ -11,6 +11,7 @@ publication_types:
 - book
 publication: '*Routledge*'
 doi: 10.4324/9781003282068
+featured: true
 abstract: 'Individual-Based Models of Cultural Evolution shows readers how to create
   individual-based models of cultural evolution using the programming language R.
   The field of cultural evolution has emerged in the last few decades as a thriving,
