@@ -3,13 +3,13 @@ title: 'The impact of imitative versus emulative learning mechanisms on artifact
   variation: implications for the evolution of material culture'
 authors:
 - Kerstin Schillinger
-- Alex Mesoudi
+- admin
 - Stephen J. Lycett
 date: '2015-11-01'
 publishDate: '2024-11-22T08:25:18.283923Z'
 publication_types:
 - article-journal
-publication: '*Evolution and Human Behavior*'
+publication: '*Evolution and Human Behavior 36*, 446-455'
 doi: 10.1016/j.evolhumbehav.2015.04.003
 abstract: Cultural evolutionary approaches highlight that different social learning
   processes may be involved in the maintenance of cultural traditions. Inevitably,
@@ -42,6 +42,7 @@ tags:
 - Imitation
 - Copying error
 - Emulation
+url_pdf: publication/schillinger-impact-2015/Schillinger_etal_EHB_2015.pdf
 links:
 - name: URL
   url: http://www.sciencedirect.com/science/article/pii/S1090513815000422

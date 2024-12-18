@@ -3,13 +3,13 @@ title: 'Differences in manufacturing traditions and assemblage-level patterns: T
   origins of cultural differences in archaeological data'
 authors:
 - Kerstin Schillinger
-- Alex Mesoudi
+- admin
 - Stephen J. Lycett
 date: '2017-06-01'
 publishDate: '2024-11-22T08:25:18.222260Z'
 publication_types:
 - article-journal
-publication: '*Journal of Archaeological Method and Theory*'
+publication: '*Journal of Archaeological Method and Theory 24*, 640-658'
 doi: 10.1007/s10816-016-9280-4
 abstract: A relationship between behavioral variability and artifactual variability
   is a founding principle of archaeology. However, this relationship is surprisingly
@@ -31,6 +31,7 @@ abstract: A relationship between behavioral variability and artifactual variabil
   can emerge not necessarily only because of a strict “mental template” but as the
   result of subtle differences in behavioral ingredients that are socially learned
   at the community level.
+url_pdf: publication/schillinger-differences-2017/Schillinger_etal_JAMT_2017.pdf
 links:
 - name: URL
   url: https://doi.org/10.1007/s10816-016-9280-4

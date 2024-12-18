@@ -3,13 +3,13 @@ title: 'Copying error and the cultural evolution of additive vs. reductive mater
   traditions: An experimental assessment'
 authors:
 - Kerstin Schillinger
-- Alex Mesoudi
+- admin
 - Stephen J. Lycett
 date: '2014-01-01'
 publishDate: '2024-11-22T08:25:17.873240Z'
 publication_types:
 - article-journal
-publication: '*American Antiquity*'
+publication: '*American Antiquity 79*, 128-143'
 doi: 10.7183/0002-7316.79.1.128
 abstract: "Copying errors that occur during the manufacture of artifactual traditions
   are potentially a major source of variation. It has been proposed that material
@@ -29,4 +29,8 @@ abstract: "Copying errors that occur during the manufacture of artifactual tradi
   attributes of artifactual traditions produced via reductive processes are inherently
   greater than those produced via alternative means. Several implications for the
   study of variation in artifactual traditions are discussed."
+url_pdf: publication/schillinger-copying-2014/Schillinger_Mesoudi_Lycett_AmAnt_2014.pdf
+links:
+- name: URL
+  url: https://doi.org/10.7183/0002-7316.79.1.128
 ---

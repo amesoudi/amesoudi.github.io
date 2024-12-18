@@ -2,13 +2,14 @@
 title: The multiple roles of cultural transmission experiments in understanding human
   cultural evolution
 authors:
-- Alex Mesoudi
+- admin
 - Andrew Whiten
 date: '2008-01-01'
 publishDate: '2024-11-22T08:25:18.039664Z'
 publication_types:
 - article-journal
-publication: '*Philosophical Transactions of the Royal Society B*'
+doi: 10.1098/rstb.2008.0129
+publication: '*Philosophical Transactions of the Royal Society B 363*, 3489-3501'
 abstract: In this paper, we explore how experimental studies of cultural transmission
   in adult humans can address general questions regarding the ‘who, what, when and
   how’ of human cultural transmission, and consequently inform a theory of human cultural
@@ -26,4 +27,8 @@ abstract: In this paper, we explore how experimental studies of cultural transmi
   we suggest that these, and future experimental studies of cultural transmission
   that build on them, can play an important role in a broader science of cultural
   evolution.
+url_pdf: publication/mesoudi-multiple-2008/Mesoudi_Whiten_PhilTransB_2008.pdf
+links:
+- name: URL
+  url: https://doi.org/10.1098/rstb.2008.0129
 ---

@@ -1,12 +1,12 @@
 ---
 title: Variable cultural acquisition costs constrain cumulative cultural evolution
 authors:
-- Alex Mesoudi
+- admin
 date: '2011-01-01'
 publishDate: '2024-11-22T08:25:17.880271Z'
 publication_types:
 - article-journal
-publication: '*PLOS One*'
+publication: '*PLOS ONE 6*, e18239'
 doi: 10.1371/journal.pone.0018239
 abstract: One of the hallmarks of the human species is our capacity for cumulative
   culture, in which beneficial knowledge and technology is accumulated over successive
@@ -25,4 +25,8 @@ abstract: One of the hallmarks of the human species is our capacity for cumulati
   explore the consequences of different cultural transmission rules (directly biased,
   indirectly biased and unbiased transmission), population size, and cultural innovations
   that themselves reduce innovation or acquisition costs.
+url_pdf: publication/mesoudi-variable-2011/Mesoudi_PLOSONE_2011.pdf
+links:
+- name: URL
+  url: https://doi.org/10.1371/journal.pone.0018239
 ---

@@ -4,7 +4,7 @@ authors:
 - Michael J. O’Brien
 - Briggs Buchanan
 - Matthew T. Boulanger
-- Alex Mesoudi
+- admin
 - Mark Collard
 - Metin I. Eren
 - R. Alexander Bentley
@@ -13,7 +13,7 @@ date: '2015-01-01'
 publishDate: '2024-11-22T08:25:18.161280Z'
 publication_types:
 - chapter
-publication: '*Learning strategies and cultural evolution during the palaeolithic*'
+publication: 'In Mesoudi & Aoki (Eds) *Learning strategies and cultural evolution during the palaeolithic* pp. 121-143. Springer Japan'
 doi: 10.1007/978-4-431-55363-2_9
 abstract: North American fluted stone projectile points occur over a relatively short
   time span, ca. 13,300–11,900 calBP, referred to as the Early Paleoindian period.
@@ -36,6 +36,7 @@ tags:
 - Fluted point
 - Guided variation
 - Paleolithic
+url_pdf: publication/obrien-transmission-2015/OBrien_etal_RNMH_2015.pdf
 links:
 - name: URL
   url: https://doi.org/10.1007/978-4-431-55363-2_9

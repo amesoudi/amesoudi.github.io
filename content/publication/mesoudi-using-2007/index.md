@@ -1,12 +1,12 @@
 ---
 title: Using the methods of social psychology to study cultural evolution
 authors:
-- Alex Mesoudi
+- admin
 date: '2007-01-01'
 publishDate: '2024-11-22T08:25:17.900009Z'
 publication_types:
 - article-journal
-publication: '*Journal of Social, Evolutionary and Cultural Psychology*'
+publication: '*Journal of Social, Evolutionary and Cultural Psychology 1*, 35-58'
 doi: 10.1037/h0099359
 abstract: 'Cultural psychology, and other social sciences (e.g. cultural anthropology,
   sociology), seek to document cultural variation, yet have difficulty providing strong

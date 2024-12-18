@@ -1,13 +1,14 @@
 ---
 title: Culture and the evolution of human sociality
 authors:
-- Alex Mesoudi
+- admin
 - Keith Jensen
 date: '2012-01-01'
 publishDate: '2024-11-22T08:25:17.964227Z'
 publication_types:
 - chapter
-publication: '*The Oxford Handbook of Comparative Evolutionary Psychology*'
+doi: 10.1093/oxfordhb/9780199738182.013.0022
+publication: 'In Vonk & Shakelford (Eds) *The Oxford Handbook of Comparative Evolutionary Psychology*, pp. 419-433. Oxford University Press'
 abstract: Compared to other species, humans are unusual in both our capacity for extensive
   and cumulative culture and our large, non-kin-based cooperative societies. In this
   chapter we review recent theories that draw links between these two unusual traits.
@@ -20,4 +21,8 @@ abstract: Compared to other species, humans are unusual in both our capacity for
   Finally, we review recent work that suggests that population size can set limits
   on the degree of cultural complexity that can be maintained, suggesting a two-way
   interaction between culture and sociality.
+url_pdf: publication/vonk-culture-2012/Mesoudi_Jensen_chapter_2012.pdf
+links:
+- name: URL
+  url: https://doi.org/10.1093/oxfordhb/9780199738182.013.0022
 ---

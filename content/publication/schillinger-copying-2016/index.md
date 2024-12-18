@@ -3,13 +3,13 @@ title: 'Copying error, evolution, and phylogenetic signal in artifactual traditi
   An experimental approach using model artifacts'
 authors:
 - Kerstin Schillinger
-- Alex Mesoudi
+- admin
 - Stephen J. Lycett
 date: '2016-06-01'
 publishDate: '2024-11-22T08:25:18.275828Z'
 publication_types:
 - article-journal
-publication: '*Journal of Archaeological Science*'
+publication: '*Journal of Archaeological Science 70*, 23-34'
 doi: 10.1016/j.jas.2016.04.013
 abstract: Spatio-temporal patterns of artifactual variation are increasingly being
   studied via the explicit application of cultural evolutionary theory and methods.
@@ -46,6 +46,7 @@ tags:
 - Copying error
 - Cultural phylogenetics
 - Model artifacts
+url_pdf: publication/schillinger-copying-2016/Schillinger_etal_JAS_2016.pdf
 links:
 - name: URL
   url: http://www.sciencedirect.com/science/article/pii/S030544031630022X
