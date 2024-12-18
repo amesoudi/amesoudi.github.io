@@ -2,10 +2,10 @@
 title: 'The experimental study of cultural transmission and its potential for explaining archaeological data'
 authors:
 - admin
-date: '2014-02-01'
-publishDate: '2024-11-22T08:25:18.301127Z'
+date: '2008-01-01'
+publishDate: '2024-11-22T08:25:17.913367Z'
 publication_types:
-- article-journal
+- chapter
 publication: '*Behavioral and Brain Sciences 37*, 91-92'
 doi: 10.1017/S0140525X13001805
 abstract: Bentley et al.’s two-dimensional conceptual map is complementary to cultural
