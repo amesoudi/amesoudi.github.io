@@ -3,7 +3,7 @@ title: 'Cultural evolution: How Darwinian theory can explain human culture and s
   the social sciences'
 authors:
 - admin
-date: '2011-01-01'
+date: '2011'
 publishDate: '2024-11-22T08:25:18.067957Z'
 publication_types:
 - book
@@ -25,7 +25,7 @@ abstract: Charles Darwin changed the course of scientific thinking by showing ho
   theory can both unify different branches of inquiry and enhance understanding of
   human behavior.
 tags:
-- Political Science / General
+- Book
 links:
 - name: URL
   url: https://press.uchicago.edu/ucp/books/book/chicago/C/bo8787504.html
