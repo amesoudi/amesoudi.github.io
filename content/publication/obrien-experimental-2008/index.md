@@ -1,5 +1,5 @@
 ---
-title: The experimental study of cultural transmission and its potential for explaining archaeological data
+title: 'The experimental study of cultural transmission and its potential for explaining archaeological data'
 authors:
 - admin
 date: '2008-01-01'
