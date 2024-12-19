@@ -109,7 +109,7 @@ sections:
       title: 'Simulation models of cultural evolution in R'
       subtitle: ''
       text: |-
-        <p style="font-size:17px"><img src="/uploads/sim.png" alt="Screenshots of cultural evolution simulations"> <a href="https://github.com/amesoudi/cultural_evolution_ABM_tutorial">This tutorial</a> shows how to create very simple simulation or agent-based models of cultural evolution in R. It uses the RStudio notebook or RMarkdown (.Rmd) format, allowing you to execute code as you read the explanatory text. Each model is contained in a separate RMarkdown file which you can open in RStudio. Currently these are:
+        <p style="font-size:17px"><img src="/uploads/sim.png" alt="Screenshots of cultural evolution simulations"> <a href="https://github.com/amesoudi/cultural_evolution_ABM_tutorial">This tutorial</a> shows how to create very simple simulation or agent-based models of cultural evolution in R. It uses the RStudio notebook or RMarkdown (.Rmd) format, allowing you to execute code as you read the explanatory text. Each model is contained in a separate RMarkdown file which you can open in RStudio. Currently these are:</p>
         
         <ul style="font-size:17px">
           <li>Model 1: Unbiased transmission</li>
@@ -133,7 +133,7 @@ sections:
           <li>Model 19: Evolution of social learning strategies</li>
         </ul>
         
-        The tutorial is freely available <a href="https://github.com/amesoudi/cultural_evolution_ABM_tutorial">in this github repository</a>. An online version which contains the compiled models with outputs can be found <a href="https://bookdown.org/amesoudi/ABMtutorial_bookdown/">on this bookdown site</a>.</p>
+        <p style="font-size:17px">The tutorial is freely available <a href="https://github.com/amesoudi/cultural_evolution_ABM_tutorial">in this github repository</a>. An online version which contains the compiled models with outputs can be found <a href="https://bookdown.org/amesoudi/ABMtutorial_bookdown/">on this bookdown site</a>.</p>
     design:
       columns: '1'
 #  - block: collection
