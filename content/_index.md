@@ -113,25 +113,25 @@ sections:
         
         <ul style="font-size:17px">
           <li>Model 1: Unbiased transmission</li>
+          <li>Model 2: Unbiased and biased mutation</li>
+          <li>Model 3: Biased transmission (direct/content bias)</li>
+          <li>Model 4: Biased transmission (indirect bias)</li>
+          <li>Model 5: Biased transmission (conformist bias)</li>
+          <li>Model 6: Vertical and horizontal transmission</li>
+          <li>Model 7: Migration</li>
+          <li>Model 8: Blending inheritance</li>
+          <li>Model 9: Demography and cultural gain/loss</li>
+          <li>Model 10: Polarization</li>
+          <li>Model 11: Cultural group selection</li>
+          <li>Model 12: Historical dynamics</li>
+          <li>Model 13: Social contagion</li>
+          <li>Model 14: Social networks</li>
+          <li>Model 15: Opinion formation</li>
+          <li>Model 16: Bayesian iterated learning</li>
+          <li>Model 17: Reinforcement learning</li>
+          <li>Model 18: Evolution of social learning</li>
+          <li>Model 19: Evolution of social learning strategies</li>
         </ul>
-        * Model 2: Unbiased and biased mutation
-        * Model 3: Biased transmission (direct/content bias)
-        * Model 4: Biased transmission (indirect bias)
-        * Model 5: Biased transmission (conformist bias)
-        * Model 6: Vertical and horizontal transmission
-        * Model 7: Migration
-        * Model 8: Blending inheritance
-        * Model 9: Demography and cultural gain/loss
-        * Model 10: Polarization
-        * Model 11: Cultural group selection
-        * Model 12: Historical dynamics
-        * Model 13: Social contagion
-        * Model 14: Social networks
-        * Model 15: Opinion formation
-        * Model 16: Bayesian iterated learning
-        * Model 17: Reinforcement learning
-        * Model 18: Evolution of social learning
-        * Model 19: Evolution of social learning strategies
         
         The tutorial is freely available <a href="https://github.com/amesoudi/cultural_evolution_ABM_tutorial">in this github repository</a>. An online version which contains the compiled models with outputs can be found <a href="https://bookdown.org/amesoudi/ABMtutorial_bookdown/">on this bookdown site</a>.</p>
     design:
