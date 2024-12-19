@@ -81,7 +81,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: books
     content:
       title: Selected Books
       filters:
