@@ -159,7 +159,7 @@ sections:
       subtitle: ''
       text: |-
         <a href="https://www.bbc.co.uk/programmes/b07jysds"><img src="/uploads/radio4.jpg" alt="BBC Radio 4" style="width:150px;height:100px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
-        <a href="https://www.bbc.co.uk/programmes/b07jysds" style="font-size: 15px"><h4>The Human Zoo</h4></a>
+        <a href="https://www.bbc.co.uk/programmes/b07jysds" style="font-size: 15px"><h3>The Human Zoo</h3></a>
         <p style="font-size:17px">Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds. 12 July 2016.</p>
         <br>
     design:
