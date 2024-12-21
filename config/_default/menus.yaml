@@ -19,6 +19,9 @@ main:
   - name: Tutorials
     url: /#tutorials
     weight: 40
+  - name: Talks
+    url: /#talks
+    weight: 50
 #  - name: Talks
 #    url: /#talks
 #    weight: 12
