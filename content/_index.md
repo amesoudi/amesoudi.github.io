@@ -162,8 +162,8 @@ sections:
         <a href="https://www.bbc.co.uk/programmes/b07jysds"><h4>The Human Zoo</h4></a>
         <p style="font-size:17px">Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds. 12 July 2016.</p>
         <br>
-        <a href="http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html"><img src="/uploads/Al_Jazeera_America_Logo.png" alt="Al Jazeera America" style="width:150px;height:100px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
-        <a href="http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html"><h4>Al Jazeera America: Do different generations of immigrants think differently?</h4></a>
+        <a href="http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html"><img src="/uploads/Al_Jazeera_America_Logo.png" alt="Al Jazeera America" style="width:150px;height:167px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
+        <a href="http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html"><p style="font-size:20px"><b>Al Jazeera America: Do different generations of immigrants think differently?</b></p></a>
         <p style="font-size:17px">Feature/interview on my cross-cultural thinking styles project by novelist Ned Beauman. 24 Feb 2016.</p>
         <br>
     design:
