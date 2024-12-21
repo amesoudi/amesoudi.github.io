@@ -136,16 +136,27 @@ sections:
         <p style="font-size:17px">The tutorial is freely available <a href="https://github.com/amesoudi/cultural_evolution_ABM_tutorial">in this github repository</a>. An online version which contains the compiled models with outputs can be found <a href="https://bookdown.org/amesoudi/ABMtutorial_bookdown/">on this bookdown site</a>.</p>
     design:
       columns: '1'
-  - block: collection
+  - block: markdown
     id: talks
     content:
-      title: Talks
-      filters:
-        folders:
-          - event
+      title: 'Talks'
+      subtitle: ''
+      text: |-
+        <p style="font-size:17px"><img src="/uploads/sim.png" alt="Screenshots of cultural evolution simulations"> <a href="https://github.com/amesoudi/cultural_evolution_ABM_tutorial">This tutorial</a> shows how to create very simple simulation or agent-based models of cultural evolution in R. It uses the RStudio notebook or RMarkdown (.Rmd) format, allowing you to execute code as you read the explanatory text. Each model is contained in a separate RMarkdown file which you can open in RStudio. Currently these are:</p>
+        A Brief History of Cultural Evolution. A keynote presentation at the Culture Conference 2021: Evolutionary Approaches to Culture, 7th June 2021.
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/LPCJw7pT8-g?si=8ErdQJn7aW7UfwCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     design:
-      view: article-grid
-      columns: 1
+      columns: '1'
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Talks
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      view: article-grid
+#      columns: 1
 #  - block: collection
 #    id: news
 #    content:
