@@ -152,6 +152,15 @@ sections:
         <iframe width="560" height="315" src="https://www.youtube.com/embed/yT32gKqQEFU?si=S4eJMtJDxY6m7in5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     design:
       columns: '1'
+  - block: markdown
+    id: media
+    content:
+      title: 'Media / podcasts'
+      subtitle: ''
+      text: |-
+        <a href="https://www.bbc.co.uk/programmes/b07jysds"><img src="/uploads/radio4.jpg" alt="BBC Radio 4" style="width:150px;height:100px;"></a>Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds.<br>
+    design:
+      columns: '2'
 #  - block: collection
 #    id: talks
 #    content:
