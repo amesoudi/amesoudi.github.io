@@ -142,9 +142,14 @@ sections:
       title: 'Talks'
       subtitle: ''
       text: |-
-        <p style="font-size:17px"><img src="/uploads/sim.png" alt="Screenshots of cultural evolution simulations"> <a href="https://github.com/amesoudi/cultural_evolution_ABM_tutorial">This tutorial</a> shows how to create very simple simulation or agent-based models of cultural evolution in R. It uses the RStudio notebook or RMarkdown (.Rmd) format, allowing you to execute code as you read the explanatory text. Each model is contained in a separate RMarkdown file which you can open in RStudio. Currently these are:</p>
-        A Brief History of Cultural Evolution. A keynote presentation at the Culture Conference 2021: Evolutionary Approaches to Culture, 7th June 2021.
+        Archaeology Within a Unified Science of Cultural Evolution. Part of the Garrod Research seminar series of the McDonald Institute for Archaeological Research, University of Cambridge, 11 January 2024.
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/pyves6t84zk?si=X08GCbsPDTfNo-96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        A Brief History of Cultural Evolution. Keynote presentation at the Culture Conference 2021: Evolutionary Approaches to Culture, 7th June 2021.
         <iframe width="560" height="315" src="https://www.youtube.com/embed/LPCJw7pT8-g?si=8ErdQJn7aW7UfwCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        Presentation at the National Academy of Sciences Arthur M. Sackler Colloquium on the Extension of Biology Through Culture held at the Beckman Center in Irvine, CA on November 15-16, 2016, organized by Marcus Feldman, Francisco J. Ayala, Andrew Whiten and Kevin Laland.
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/8odzOGK-8hE?si=d2BuloQG0Tg6kp8K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        Towards A Science Of Culture Within A Darwinian Evolutionary Framework. Moderator: Prof. Itamar Even-Zohar. Tel-Aviv, Israel. 2nd June 2015
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/yT32gKqQEFU?si=S4eJMtJDxY6m7in5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     design:
       columns: '1'
 #  - block: collection
