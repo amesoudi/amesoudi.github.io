@@ -158,7 +158,7 @@ sections:
       title: 'Media / podcasts'
       subtitle: ''
       text: |-
-        <a href="https://www.bbc.co.uk/programmes/b07jysds"><img src="/uploads/radio4.jpg" alt="BBC Radio 4" style="width:150px;height:100px;"></a>Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds.<br>
+        <a href="https://www.bbc.co.uk/programmes/b07jysds"><img src="/uploads/radio4.jpg" alt="BBC Radio 4" style="width:150px;height:100px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;" Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds. 12 July 2016.></a><br>
     design:
       columns: '2'
 #  - block: collection
