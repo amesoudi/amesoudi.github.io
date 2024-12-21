@@ -142,7 +142,7 @@ sections:
       title: 'Talks'
       subtitle: ''
       text: |-
-        <p style="font-size:17px"><b>Archaeology Within a Unified Science of Cultural Evolution</b>. Part of the Garrod Research seminar series of the McDonald Institute for Archaeological Research, University of Cambridge, 11 January 2024.</p>
+        <p style="font-size:17px"><b>Archaeology Within a Unified Science of Cultural Evolution</b>. Part of the Garrod Research seminar series of the McDonald Institute for Archaeological Research, University of Cambridge, 11 January 2024.</p><br>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/pyves6t84zk?si=R6yUnf2sdrC8ZIzW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
         <p style="font-size:17px"><b>A Brief History of Cultural Evolution</b>. Keynote presentation at the Culture Conference 2021: Evolutionary Approaches to Culture, 7th June 2021.</p>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/LPCJw7pT8-g?si=8ErdQJn7aW7UfwCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
@@ -159,7 +159,7 @@ sections:
       subtitle: ''
       text: |-
         <a href="https://www.bbc.co.uk/programmes/b07jysds"><img src="/uploads/radio4.jpg" alt="BBC Radio 4" style="width:150px;height:100px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
-        <a href="https://www.bbc.co.uk/programmes/b07jysds" style="font-size: 15px"><h3>The Human Zoo</h3></a>
+        <a href="https://www.bbc.co.uk/programmes/b07jysds" style="font-size: 15px"><h2>The Human Zoo</h2></a>
         <p style="font-size:17px">Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds. 12 July 2016.</p>
         <br>
     design:
