@@ -162,15 +162,15 @@ sections:
         <a href="http://bigpicturescience.org/episodes/post-social-media"><p style="font-size:18px"><b>The Big Picture Science Podcast</b></p></a>
         <p style="font-size:17px">Contributor to the episode Post Social Media. 3 June 2024.</p>
         <br>
-        <a href="https://www.youtube.com/watch?v=UwYzy-F0LP0"><img src="/uploads/unsupervisedlearning.png" alt="Unsupervised Learning Podcast" style="width:150px;height:100px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
+        <a href="https://www.youtube.com/watch?v=UwYzy-F0LP0"><img src="/uploads/unsupervisedlearning.png" alt="Unsupervised Learning Podcast" style="width:150px;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
         <a href="https://www.youtube.com/watch?v=UwYzy-F0LP0"><p style="font-size:18px"><b>Unsupervised Learning podcast</b></p></a>
         <p style="font-size:17px">In conversation with Razib Khan. 23 Oct 2022.</p>
         <br>
-        <a href="https://thisviewoflife.libsyn.com/cultural-evolution-with-alex-mesoudi"><img src="/uploads/thisviewoflife.png" alt="This View of Life" style="width:150px;height:100px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
+        <a href="https://thisviewoflife.libsyn.com/cultural-evolution-with-alex-mesoudi"><img src="/uploads/thisviewoflife.png" alt="This View of Life" style="width:150px;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
         <a href="https://thisviewoflife.libsyn.com/cultural-evolution-with-alex-mesoudi"><p style="font-size:18px"><b>This View of Life podcast</b></p></a>
         <p style="font-size:17px">Episode entitled "Cultural Evolution with Alex Mesoudi", hosted by David Sloan Wilson. 11 Sep 2020.</p>
         <br>
-        <a href="https://www.thedissenter.net/podcast/228-alex-mesoudi-studying-cultural-evolution-migration-and-transmission/"><img src="/uploads/thedissenter.jpg" alt="The Dissenter" style="width:150px;height:100px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
+        <a href="https://www.thedissenter.net/podcast/228-alex-mesoudi-studying-cultural-evolution-migration-and-transmission/"><img src="/uploads/thedissenter.jpg" alt="The Dissenter" style="width:150px;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
         <a href="https://www.thedissenter.net/podcast/228-alex-mesoudi-studying-cultural-evolution-migration-and-transmission/"><p style="font-size:18px"><b>The Dissenter podcast</b></p></a>
         <p style="font-size:17px">Episode #228 Alex Mesoudi: Studying Cultural Evolution, Migration, And Transmission. 12 Sep 2019.</p>
         <br>
