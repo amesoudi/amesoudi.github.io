@@ -161,31 +161,30 @@ sections:
         <a href="http://bigpicturescience.org/episodes/post-social-media"><img src="/uploads/bigpicturescience-website-logo.png" alt="Big Picture Science Podcast" style="width:150px;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
         <a href="http://bigpicturescience.org/episodes/post-social-media"><p style="font-size:18px"><b>The Big Picture Science Podcast</b></p></a>
         <p style="font-size:17px">Contributor to the episode Post Social Media. 3 June 2024.</p>
-        <br>
-        <a href="https://www.youtube.com/watch?v=UwYzy-F0LP0"><img src="/uploads/unsupervisedlearning.png" alt="Unsupervised Learning Podcast" style="width:150px;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:right;"></a>
+        <br><br>
+        <a href="https://www.youtube.com/watch?v=UwYzy-F0LP0"><img src="/uploads/unsupervisedlearning.png" alt="Unsupervised Learning Podcast" style="width:150px;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
         <a href="https://www.youtube.com/watch?v=UwYzy-F0LP0"><p style="font-size:18px"><b>Unsupervised Learning podcast</b></p></a>
         <p style="font-size:17px">In conversation with Razib Khan. 23 Oct 2022.</p>
-        <br>
+        <br><br>
         <a href="https://thisviewoflife.libsyn.com/cultural-evolution-with-alex-mesoudi"><img src="/uploads/thisviewoflife.png" alt="This View of Life" style="width:150px;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
         <a href="https://thisviewoflife.libsyn.com/cultural-evolution-with-alex-mesoudi"><p style="font-size:18px"><b>This View of Life podcast</b></p></a>
         <p style="font-size:17px">Episode entitled "Cultural Evolution with Alex Mesoudi", hosted by David Sloan Wilson. 11 Sep 2020.</p>
-        <br>
-        <a href="https://www.thedissenter.net/podcast/228-alex-mesoudi-studying-cultural-evolution-migration-and-transmission/"><img src="/uploads/thedissenter.jpg" alt="The Dissenter" style="width:150px;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:right;"></a>
+        <br><br>
+        <a href="https://www.thedissenter.net/podcast/228-alex-mesoudi-studying-cultural-evolution-migration-and-transmission/"><img src="/uploads/thedissenter.jpg" alt="The Dissenter" style="width:150px;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
         <a href="https://www.thedissenter.net/podcast/228-alex-mesoudi-studying-cultural-evolution-migration-and-transmission/"><p style="font-size:18px"><b>The Dissenter podcast</b></p></a>
         <p style="font-size:17px">Episode #228 Alex Mesoudi: Studying Cultural Evolution, Migration, And Transmission. 12 Sep 2019.</p>
-        <br>
+        <br><br>
         <a href="https://www.bbc.co.uk/programmes/b07jysds"><img src="/uploads/radio4.jpg" alt="BBC Radio 4" style="width:150px;height:100px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
         <a href="https://www.bbc.co.uk/programmes/b07jysds"><p style="font-size:18px"><b>The Human Zoo</b></p></a>
         <p style="font-size:17px">Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds. 12 July 2016.</p>
-        <br>
-        <a href="https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/"><img src="/uploads/theforum.jpg" alt="The Forum" style="width:150px;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:right;"></a>
+        <br><br>
+        <a href="https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/"><img src="/uploads/theforum.jpg" alt="The Forum" style="width:150px;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
         <a href="https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/"><p style="font-size:18px"><b>The Forum Debate: Darwinism and the Social Sciences</b></p></a>
         <p style="font-size:17px">Panellist. Organised by the Forum for European Philosophy, London School of Economics. 29 Feb 2016.</p>
-        <br>
+        <br><br>
         <a href="http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html"><img src="/uploads/Al_Jazeera_America_Logo.png" alt="Al Jazeera America" style="width:150px;height:167px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:left;"></a>
         <a href="http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html"><p style="font-size:18px"><b>Al Jazeera America: Do different generations of immigrants think differently?</b></p></a>
         <p style="font-size:17px">Feature/interview on my cross-cultural thinking styles project by novelist Ned Beauman. 24 Feb 2016.</p>
-        <br>
     design:
       columns: '1'
 #  - block: collection
