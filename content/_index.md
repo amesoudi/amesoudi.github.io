@@ -104,6 +104,19 @@ sections:
     design:
       view: citation
   - block: markdown
+    id: lab
+    content:
+      title: 'Lab members'
+      subtitle: ''
+      text: |-
+        <p style="font-size:18px"><b>Current lab members</b></p>
+        <ul style="font-size:17px">
+          <li>[Andoni Sergiou](http://andonisergiou.com/), PhD student, 2020-present</li>
+          <li>[Ishaan Sinha](https://uk.linkedin.com/in/ishaan-sinha-02785b193), PhD student, 2023-present</li>
+        </ul>
+    design:
+      columns: '1'
+  - block: markdown
     id: tutorials
     content:
       title: 'Simulation models of cultural evolution in R'
