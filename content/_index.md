@@ -111,8 +111,31 @@ sections:
       text: |-
         <p style="font-size:18px"><b>Current lab members</b></p>
         <ul style="font-size:17px">
-          <li>[Andoni Sergiou](http://andonisergiou.com/), PhD student, 2020-present</li>
-          <li>[Ishaan Sinha](https://uk.linkedin.com/in/ishaan-sinha-02785b193), PhD student, 2023-present</li>
+          <li><a href="http://andonisergiou.com/">Andoni Sergiou</a>, PhD student, 2020-present</li>
+          <li><a href="https://uk.linkedin.com/in/ishaan-sinha-02785b193">Ishaan Sinha</a>, PhD student, 2023-present</li>
+        </ul>
+        <p style="font-size:18px"><b>Former postdocs</b></p>
+        <ul style="font-size:17px">
+          <li><a href="https://angelvjimenez.com/">Dr Angel V. Jimenez</a>, CES/Templeton funded postdoc, 2023-2024</li>
+          <li><a href="https://lottybrand.wordpress.com/">Dr Charlotte Brand</a>, Leverhulme Trust funded Postdoctoral Research Associate, 2017-2020</li>
+          <li><a href="https://maximederex.weebly.com/">Dr Maxime Derex</a>, Marie Curie Fellow, 2017-2019 (now holds CNRS position at IAST in Toulouse)</li>
+          <li><a href="https://www.anthro.ox.ac.uk/people/dr-kesson-magid">Dr Kesson Magid</a>, ESRC funded postdoc, 2013-2016 (now at Department of Anthropology, Oxford)</li>
+          <li><a href="http://www.sps.ed.ac.uk/staff/social_anthropology/delwar_hussain">Dr Delwar Hussain</a>, ESRC funded postdoc, 2013-2014 (now at Department of Anthropology, University of Edinburgh)</li>
+          <li>Dr Keelin Murray, ESRC funded postdoc, 2013-2014</li>
+        </ul>
+        <p style="font-size:18px"><b>Former PhD students</b></p>
+        <ul style="font-size:17px">
+          <li><a href="https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Dugald_Foster">Dr Dugald Foster</a>, University of Exeter, 2019-2023; passed with no corrections</li>
+          <li><a href="https://angelvjimenez.com/">Dr Angel V. Jimenez</a>, University of Exeter, 2017-2020; passed with minor corrections</li>
+          <li><a href="https://alicejeanwilliams.wordpress.com/">Dr Alice Williams</a>, University of Exeter, 2018-2019 (took over as main supervisor); passed with minor corrections</li>
+          <li><a href="https://www.sjc.edu/academic-programs/faculty/annapolis">Dr Marius Kempe</a>, Queen Mary / Durham University, 2010-2013; passed with minor corrections</li>
+          <li>Dr Vera Sarkol, Queen Mary, 2010-2014; passed with minor corrections</li>
+        </ul>
+        <p style="font-size:18px"><b>Former visiting PhD/MSc students and postdocs</b></p>
+        <ul style="font-size:17px">
+          <li><a href="https://sites.google.com/site/watarutoyokawa/home">Dr Wataru Toyokawa</a>, British Academy Visiting Fellow, October-December 2023</li>
+          <li>Jérémy Perez, visiting Masters student from Télécom Paris, France, June-August 2021</li>
+          <li>André Luiz Borba do Nascimento, visiting PhD student from Federal Rural University of Pernambuco, Brazil, March-August 2017</li>
         </ul>
     design:
       columns: '1'
