@@ -16,6 +16,9 @@ main:
   - name: Publications
     url: /#publications
     weight: 30
+  - name: People
+    url: /#people
+    weight: 35
   - name: Tutorials
     url: /#tutorials
     weight: 40
