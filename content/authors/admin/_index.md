@@ -90,7 +90,7 @@ profiles:
 
 ---
 
-XWelcome! I am Professor of Cultural Evolution at the University of Exeter’s Penryn Campus in Cornwall, UK. I am also President of the 
+Welcome! I am Professor of Cultural Evolution at the University of Exeter’s Penryn Campus in Cornwall, UK. I am also President of the 
 <a href="https://culturalevolutionsociety.org/">Cultural Evolution Society</a>.
 
 I study **human cultural evolution**. I am interested in how human culture evolved, and how culture itself evolves over time.
