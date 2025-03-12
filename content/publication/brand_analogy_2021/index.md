@@ -1,5 +1,6 @@
 ---
 title: Analogy as a catalyst for cumulative cultural evolution
+authors:
 - Charlotte O. Brand
 - admin
 - Paul Smaldino
