@@ -1,16 +1,16 @@
 ---
 title: 'From information free-riding to information sharing: how have humans solved
-  the cooperative dilemma at the heart of cumulative cultural evolution? [preprint]'
+  the cooperative dilemma at the heart of cumulative cultural evolution?'
 authors:
 - admin
 - Angel V. Jimenez
 - Keith Jensen
 - Lei Chang
-date: '2024-05-01'
+date: '2025-01-01'
 publishDate: '2024-11-22T08:25:18.673086Z'
 publication_types:
 - manuscript
-publication: '*OSF*'
+publication: '*Philosophical Transactions of the Royal Society B*'
 doi: 10.31235/osf.io/a9zty
 abstract: Cumulative cultural evolution, where populations accumulate ever-improving
   knowledge, technologies and social customs, is arguably a unique feature of human
