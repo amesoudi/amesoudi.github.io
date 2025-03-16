@@ -5,12 +5,12 @@ authors:
 - Stefan Gehrig
 - admin
 - Shakti Lamba
-date: '2020-01-01'
+date: '2021-01-01'
 publishDate: '2024-11-22T08:25:18.570306Z'
 publication_types:
 - article-journal
 publication: '*Evolutionary Human Sciences 3*, e2'
-doi: 10.31219/osf.io/tmpqj
+doi: 10.1017/ehs.2020.64
 abstract: Microfinance is an economic development intervention that provides loans
   to low-income borrowers to stimulate economic growth and reduce financial hardship.
   Lenders typically require joint liability, where multiple borrowers share the responsibility
@@ -48,5 +48,5 @@ tags:
 url_pdf: publication/gehrig-banking-2020/Gehrig_Mesoudi_Lamba_EHS_2021.pdf
 links:
 - name: URL
-  url: https://osf.io/tmpqj/
+  url: https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/banking-on-cooperation-an-evolutionary-analysis-of-microfinance-loan-repayment-behaviour/EC9ED258B47957CD0C7D1F32E581848D
 ---
