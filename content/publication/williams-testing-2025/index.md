@@ -4,7 +4,7 @@ authors:
 - Alice Williams
 - admin
 date: '2025-01-01'
-publishDate: '2025-11-22T08:25:18.620729Z'
+publishDate: '2025-04-22T08:25:18.620729Z'
 publication_types:
 - article-journal
 publication: '*Journal of Archaeological Science 64*, 105147'
