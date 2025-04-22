@@ -3,7 +3,7 @@ title: Testing the effect of circumscription on the evolution of social complexi
 authors:
 - Alice Williams
 - admin
-date: '2025-01-01'
+date: '2025-04-22'
 publishDate: '2025-04-22T08:25:18.620729Z'
 publication_types:
 - article-journal
