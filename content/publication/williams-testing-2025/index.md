@@ -1,7 +1,7 @@
 ---
 title: Testing the effect of circumscription on the evolution of social complexity in the Valley of Oaxaca, Mexico, using agent-based models
 authors:
-- Alice Williams
+- Alice J. Williams
 - admin
 date: '2025-04-22'
 publishDate: '2025-04-22T08:25:18.620729Z'
