@@ -1,5 +1,5 @@
 ---
-title: Cultural Evolution: Overview
+title: Cultural Evolution Overview
 authors:
 - admin
 date: '2015-01-01'
