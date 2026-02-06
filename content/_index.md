@@ -111,7 +111,6 @@ sections:
       text: |-
         <p style="font-size:18px"><b>Current lab members</b></p>
         <ul style="font-size:17px">
-          <li><a href="http://andonisergiou.com/">Andoni Sergiou</a>, PhD student, 2020-present</li>
           <li><a href="https://uk.linkedin.com/in/ishaan-sinha-02785b193">Ishaan Sinha</a>, PhD student, 2023-present</li>
         </ul>
         <p style="font-size:18px"><b>Former postdocs</b></p>
@@ -125,6 +124,7 @@ sections:
         </ul>
         <p style="font-size:18px"><b>Former PhD students</b></p>
         <ul style="font-size:17px">
+          <li><a href="http://andonisergiou.com/">Andoni Sergiou</a>, PhD student, 2020-2025; passed with minor corrections</li>
           <li><a href="https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Dugald_Foster">Dr Dugald Foster</a>, University of Exeter, 2019-2023; passed with no corrections</li>
           <li><a href="https://angelvjimenez.com/">Dr Angel V. Jimenez</a>, University of Exeter, 2017-2020; passed with minor corrections</li>
           <li><a href="https://alicejeanwilliams.wordpress.com/">Dr Alice Williams</a>, University of Exeter, 2018-2019 (took over as main supervisor); passed with minor corrections</li>
