@@ -135,7 +135,7 @@ sections:
         <ul style="font-size:17px">
           <li><a href="https://sites.google.com/site/watarutoyokawa/home">Dr Wataru Toyokawa</a>, British Academy Visiting Fellow, October-December 2023</li>
           <li><a href="https://scholar.google.com/citations?user=isuFqLIAAAAJ&hl=fr">Jérémy Perez</a>, visiting Masters student from Télécom Paris, France, June-August 2021</li>
-          <li>André Luiz Borba do Nascimento, visiting PhD student from Federal Rural University of Pernambuco, Brazil, March-August 2017</li>
+          <li><a href="https://www.researchgate.net/profile/Andre-Nascimento-28">André Luiz Borba do Nascimento</a>, visiting PhD student from Federal Rural University of Pernambuco, Brazil, March-August 2017</li>
         </ul>
     design:
       columns: '1'
