@@ -4,7 +4,6 @@ authors:
 - Ángel Jiménez
 - Lei Chang
 - Keith Jensen
-- Jakub Kryczka
 - Hui Jing Lu
 - admin
 date: '2026-06-24'
